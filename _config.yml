@@ -22,21 +22,19 @@ author:
   avatar: "profile.png"
   name: "Yunda Yan"
   pronouns:
-  bio: "Lecturer in Robotics and AI at UCL. Research in control, optimisation, and learning for autonomy, with interests in model predictive control, safety-critical control, and autonomous systems."
+  bio: "Lecturer in Robotics and AI at UCL\\ SMIEEE, FHEA"
   location: "London, United Kingdom"
   employer: "University College London (UCL)"
   uri: "https://profiles.ucl.ac.uk/95124-yunda-yan"
   email: "yunda.yan@ucl.ac.uk"
 
   # Academic profiles
-  googlescholar:
-  orcid:
-  github: "YundaYan"
-  researchgate:
-  linkedin:
-  xing:
-  youtube:
-  bluesky:
+  googlescholar: "https://scholar.google.com/citations?user=s9IOtoMAAAAJ&hl=en"
+  orcid: "https://orcid.org/0000-0002-2839-6778"
+ #  github: "YundaYan"
+  researchgate: "https://www.researchgate.net/profile/Yunda-Yan"
+  linkedin: "https://www.linkedin.com/in/yunda-yan-a72a851b7/"
+  
 
 # ------------------------------
 # Publication categories
