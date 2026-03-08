@@ -22,10 +22,7 @@ author:
 # avatar: "profile.png"
   name: "Yunda Yan"
   pronouns:
-  bio: |
-    Assistant Professor in Robotics and AI
-    Senior Member, IEEE (SMIEEE)
-    Fellow of the Higher Education Academy (FHEA)
+  bio: "Assistant Professor in Robotics and AI <br> Senior Member, IEEE (SMIEEE) <br> Fellow of the Higher Education Academy (FHEA)"
   location: "London, United Kingdom"
   employer: "University College London (UCL)"
   uri: "https://profiles.ucl.ac.uk/95124-yunda-yan"
