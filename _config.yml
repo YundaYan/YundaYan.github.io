@@ -19,19 +19,19 @@ masthead_title: "Yunda Yan"
 # Author
 # ------------------------------
 author:
- avatar: "profile.png"
+  avatar: "profile.png"
   name: "Yunda Yan"
   pronouns:
   bio: "Assistant Professor in Robotics and AI <br> Senior Member, IEEE (SMIEEE) <br> Fellow of the Higher Education Academy (FHEA)"
   location: "London, United Kingdom"
   employer: "University College London (UCL)"
   uri: "https://profiles.ucl.ac.uk/95124-yunda-yan"
-   email: "yunda.yan@ucl.ac.uk"
-
+  email: "yunda.yan@ucl.ac.uk"
+  
   # Academic profiles
   googlescholar: "https://scholar.google.com/citations?user=s9IOtoMAAAAJ&hl=en"
   orcid: "https://orcid.org/0000-0002-2839-6778"
- #  github: "YundaYan"
+  # github: "YundaYan"
   researchgate: "https://www.researchgate.net/profile/Yunda-Yan"
   linkedin: "yunda-yan-a72a851b7"
   
