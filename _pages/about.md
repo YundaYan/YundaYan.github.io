@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Lecturer in Robotics and AI in the [Department of Computer Science](https://www.ucl.ac.uk/engineering/computer-science) at [University College London (UCL)](https://www.ucl.ac.uk), working with the [Intelligent Robotics Group](https://www.ucl.ac.uk/engineering/computer-science/research/research-groups-and-centres/intelligent-robotics-group).
+I am currently a Lecturer (Assistant Professor) in Robotics and AI in the [Department of Computer Science](https://www.ucl.ac.uk/engineering/computer-science) at [University College London (UCL)](https://www.ucl.ac.uk), where I work with the [Intelligent Robotics Group](https://www.ucl.ac.uk/engineering/computer-science/research/research-groups-and-centres/intelligent-robotics-group).
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Prior to joining UCL, I was a Senior Lecturer in Control Engineering at De Montfort University (2022–2023) and a Postdoctoral Research Associate at Loughborough University (2020–2022). I obtained my PhD in Control Science and Engineering from Southeast University in 2019. During my doctoral studies, I also held visiting research positions in aerial robotics at Loughborough University (2017–2018) and in biorobotics at the National University of Singapore. My academic career has focused on developing advanced control and optimisation methods for autonomous systems and robotics.
 
 A data-driven personal website
 ======
