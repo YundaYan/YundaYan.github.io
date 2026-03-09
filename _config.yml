@@ -22,11 +22,11 @@ author:
   avatar: "profile_Yunda.png"
   name: "Yunda Yan"
   pronouns:
-  bio: "Assistant Professor in Robotics and AI <br> Senior Member, IEEE (SMIEEE) <br> Fellow of the Higher Education Academy (FHEA)"
+  bio: "Assistant Professor in Robotics and AI <br> Email: yunda [at] ucl [dot] ac [dot] uk <br> Senior Member, IEEE (SMIEEE) <br> Fellow of the Higher Education Academy (FHEA)"
   location: "London, United Kingdom"
   employer: "University College London (UCL)"
   uri: "https://profiles.ucl.ac.uk/95124-yunda-yan"
-  email: "yunda.yan@ucl.ac.uk"
+  # email: "yunda.yan@ucl.ac.uk"
   
   # Academic profiles
   googlescholar: "https://scholar.google.com/citations?user=s9IOtoMAAAAJ&hl=en"
