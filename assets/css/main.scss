@@ -38,7 +38,13 @@
 @use "font-awesome/solid";
 @use "font-awesome/regular";
 
-/* ===== Note Box ===== */
+---
+---
+
+@import "main";
+
+/* ===== Your custom style ===== */
+
 .note-box {
   border-left: 4px solid #6c757d;
   background: #f8f9fa;
@@ -47,13 +53,8 @@
   border-radius: 6px;
 
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  transition: all 0.2s ease;
 }
 
-.note-box:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
-}
 
 
 /* ===== Justify all text ===== */
