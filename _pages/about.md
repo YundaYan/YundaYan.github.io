@@ -41,10 +41,7 @@ My research focuses on **Control, Optimisation, and Learning for Autonomy (COLA)
   </strong>
   <div style="text-align: justify; text-justify: inter-word;">
     <p>
-      If your background and interests align with my research in <strong>COLA</strong>, I would be happy to hear from you. I am always interested in working with motivated PhD students and academic visitors.
-    </p>
-    <p>
-      Prospective applicants are encouraged to complete 
+      If your background and interests align with my research in <strong>COLA</strong>, I would be happy to hear from you. I am always interested in working with motivated PhD students and academic visitors. Prospective applicants are encouraged to complete 
       <a href="https://forms.gle/WNiuvowvF5YXDBnF6">this form</a> prior to contacting me. 
       Funding opportunities, including scholarships, may be available for outstanding candidates. 
       More details can be found on the 
