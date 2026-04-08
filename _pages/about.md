@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Assistant Professor</p>
-    <p>yunda [dot] yan [at] ucl.ac.uk</p>
+    <p>yunda[dot]yan[at]ucl.ac.uk</p>
     <p>SMIEEE, FHEA, RAICo Fellow</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
