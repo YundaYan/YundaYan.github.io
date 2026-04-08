@@ -10,7 +10,7 @@ subtitle: >
 profile:
   align: right
   image: profile_Yunda.png
-  image_circular: true #false # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Assistant Professor</p>
     <p>yunda[dot]yan[at]ucl.ac.uk</p>
