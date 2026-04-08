@@ -41,7 +41,7 @@ My research focuses on **Control, Optimisation, and Learning for Autonomy (COLA)
     📌 PhD & Visiting Opportunities
   </strong>
   <p>
-    If your background and interests align with my research in <strong>Control, Optimisation, and Learning for Autonomy (COLA)</strong>, I would be happy to hear from you. I am always interested in working with motivated PhD students and academic visitors.
+    If your background and interests align with my research in <strong>COLA</strong>, I would be happy to hear from you. I am always interested in working with motivated PhD students and academic visitors.
   </p>
   <p>
     Prospective applicants are encouraged to complete 
