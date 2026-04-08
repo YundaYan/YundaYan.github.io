@@ -51,15 +51,3 @@ p {
   text-justify: inter-word;
 }
 
-/* Optional: better spacing */
-.content, .post, .about {
-  text-align: justify;
-}
-
-.note-box p {
-  margin: 0 0 0.6em 0;   /* 控制段落间距 */
-}
-
-.note-box p:last-child {
-  margin-bottom: 0;      /* 最后一段不留空 */
-}
