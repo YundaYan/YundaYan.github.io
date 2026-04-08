@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='#'>Affiliations</a>. Department of Computer Science, University College London (UCL)"
+subtitle: <a href='#'>Affiliations</a>. Department of Computer Science, University College London (UCL)
 
 profile:
   align: right
