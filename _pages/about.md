@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle:<a href='#'>Affiliations</a>. Department of Computer Science, University College London (UCL)
+subtitle: <a href='#'>Affiliations</a>. Department of Computer Science, University College London (UCL)
 
 profile:
   align: right
   image: profile_Yunda.png
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: >
     <p>Assistant Professor</p>
-   <p> Email: yunda [dot] yan [at] ucl.ac.uk</p>
+    <p>Email: yunda [dot] yan [at] ucl.ac.uk</p>
     <p>SMIEEE, FHEA, RAICo Fellow</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
