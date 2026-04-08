@@ -42,17 +42,18 @@ My research focuses on **Control, Optimisation, and Learning for Autonomy (COLA)
     📌 PhD & Visiting Opportunities
   </strong>
   <div style="text-align: justify; text-justify: inter-word;">
-   If your background and interests align with my research in <strong>COLA</strong>, I would be happy to hear from you. I am always interested in working with motivated PhD students and academic visitors.
-  </p>
-  <p>
-    Prospective applicants are encouraged to complete 
-    <a href="https://forms.gle/WNiuvowvF5YXDBnF6">this form</a> prior to contacting me. 
-    Funding opportunities, including scholarships, may be available for outstanding candidates. 
-    More details can be found on the 
-    <a href="https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/computer-science-4-year-programme-mphil-phd">UCL PhD programme page</a>.
+    <p>
+      If your background and interests align with my research in <strong>COLA</strong>, I would be happy to hear from you. I am always interested in working with motivated PhD students and academic visitors.
+    </p>
+    <p>
+      Prospective applicants are encouraged to complete 
+      <a href="https://forms.gle/WNiuvowvF5YXDBnF6">this form</a> prior to contacting me. 
+      Funding opportunities, including scholarships, may be available for outstanding candidates. 
+      More details can be found on the 
+      <a href="https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/computer-science-4-year-programme-mphil-phd">UCL PhD programme page</a>.
+    </p>
   </div>
 </div>
-
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
