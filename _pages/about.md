@@ -36,6 +36,19 @@ Prior to joining UCL, I was a Senior Lecturer in Control Engineering at De Montf
 
 My research focuses on **Control, Optimisation, and Learning for Autonomy (COLA)**, with particular interests in model predictive control, safety-critical control, disturbance rejection, and estimation methods for autonomous systems. I develop theoretically grounded and computationally efficient control and learning approaches for systems operating under disturbances, uncertainties, and constraints, with applications in robotics, intelligent transportation, and energy systems. In these research areas, I have authored or co-authored a number of papers in leading journals and conferences, including Automatica, IEEE Transactions on Automatic Control, IEEE/ASME Transactions on Mechatronics, and IEEE Transactions on Automation Science and Engineering. According to Google Scholar, my publications have received 2152 citations, with an h-index of 19 and an i10-index of 27.
 
+<div style="border-left: 4px solid #6c757d; padding: 1em 1.2em; background: #f8f9fa; margin: 1.5em 0; border-radius: 4px;">
+  <strong style="display: block; margin-bottom: 0.5em; text-align: left;">
+    📌 PhD & Visiting Opportunities
+  </strong>
+  <div style="text-align: justify; text-justify: inter-word;">
+    I am always looking for motivated PhD students and academic visitors. If you are interested, please complete 
+    <a href="https://forms.gle/WNiuvowvF5YXDBnF6">this form</a>. 
+    <a href="https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/computer-science-4-year-programme-mphil-phd">Scholarships</a> 
+    may be available for outstanding candidates. If your background and interests align with my research in control, optimisation, and learning for autonomy, please feel free to get in touch.
+  </div>
+</div>
+
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
