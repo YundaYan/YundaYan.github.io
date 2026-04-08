@@ -37,3 +37,19 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+/* ===== Justify all text ===== */
+body {
+  text-align: justify;
+}
+
+/* Fix last line alignment */
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Optional: better spacing */
+.content, .post, .about {
+  text-align: justify;
+}
