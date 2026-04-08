@@ -38,6 +38,24 @@
 @use "font-awesome/solid";
 @use "font-awesome/regular";
 
+/* ===== Note Box ===== */
+.note-box {
+  border-left: 4px solid #6c757d;
+  background: #f8f9fa;
+  padding: 1em 1.2em;
+  margin: 1.5em 0;
+  border-radius: 6px;
+
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: all 0.2s ease;
+}
+
+.note-box:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+
 /* ===== Justify all text ===== */
 body {
   text-align: justify;
