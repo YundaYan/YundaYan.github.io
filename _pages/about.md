@@ -24,10 +24,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am currently a Lecturer (Assistant Professor) in Robotics and AI in the Department of Computer Science at UCL. Before joining UCL, I was a Senior Lecturer in Control Engineering at De Montfort University (2022–2023) and a Postdoctoral Research Associate at Loughborough University (2020–2022). I received both my Bachelor's degree (2009) and PhD (2019) in Control Science and Engineering from Southeast University. During my doctoral studies, I also held visiting research positions in aerial robotics at Loughborough University (2017–2018) and in biorobotics at the National University of Singapore (2016–2017). 
