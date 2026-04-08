@@ -8,7 +8,7 @@ profile:
   align: right
   image: profile_Yunda.png
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: 
     <p>Assistant Professor</p>
    <p> Email: yunda [dot] yan [at] ucl.ac.uk</p>
     <p>SMIEEE, FHEA, RAICo Fellow</p>
