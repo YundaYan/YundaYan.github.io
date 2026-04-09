@@ -173,13 +173,6 @@ ninja.data = [{
           window.open("mailto:%79%75%6E%64%61.%79%61%6E@%75%63%6C.%61%63.%75%6B", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
@@ -192,13 +185,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=s9IOtoMAAAAJ&hl", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://profiles.ucl.ac.uk/95124-yunda-yan", "_blank");
         },
       },{
       id: 'light-theme',
