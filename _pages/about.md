@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   <a href="#">Affiliations</a>. Department of Computer Science, University College London (UCL)
