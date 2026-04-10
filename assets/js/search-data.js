@@ -92,10 +92,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-i-joined-university-college-london-ucl-as-a-lecturer-in-robotics-and-ai",
-          title: 'I joined University College London (UCL) as a Lecturer in Robotics and AI....',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
