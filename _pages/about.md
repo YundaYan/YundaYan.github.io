@@ -46,6 +46,21 @@ My research focuses on **Control, Optimisation, and Learning for Autonomy (COLA)
   </div>
 </div>
 
+### News
+
+- <img src="https://img.shields.io/badge/Jan-2026-orange" alt="Jan 2026" align="top"> We welcome Mr Zhenyu Gao to the group as a PhD student.
+- <img src="https://img.shields.io/badge/Oct-2025-blue" alt="Oct 2025" align="top"> We welcome [Dr Zuo Wang](https://scholar.google.com/citations?user=RYFyfC0AAAAJ&hl=en&oi=sra) (Southeast University) to the group as a visiting researcher for a one-year appointment.
+- <img src="https://img.shields.io/badge/Sep-2025-blue" alt="Sep 2025" align="top"> We welcome Mr Hao Chen (Tianjin University) and Mr Pengfei Liu (Southeast University) to the group as visiting PhD students for a one-year appointment.
+- <img src="https://img.shields.io/badge/Sep-2025-blue" alt="Sep 2025" align="top"> We welcome [Dr Pengfeng Lin](https://scholar.google.com/citations?user=RtpvKG0AAAAJ&hl=zh-CN) (Shanghai Jiao Tong University) to visit the group.
+- <img src="https://img.shields.io/badge/Dec-2024-lightblue" alt="Dec 2024" align="top"> I was elected as an IEEE Senior Member.
+- <img src="https://img.shields.io/badge/Nov-2024-lightblue" alt="Nov 2024" align="top"> I was awarded Fellowship of the Higher Education Academy (FHEA).
+- <img src="https://img.shields.io/badge/Apr-2024-lightblue" alt="Apr 2024" align="top"> I serve as Deputy Programme Director for the [MEng Robotics and AI (RAI) programme](https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/robotics-and-artificial-intelligence-meng).
+- <img src="https://img.shields.io/badge/Sep-2023-green" alt="Sep 2023" align="top"> I joined University College London (UCL) as a Lecturer in Robotics and AI.
+
+
+
+
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
