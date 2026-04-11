@@ -31,11 +31,11 @@ I am currently a Lecturer (Assistant Professor) in Robotics and AI in the Depart
 My research focuses on **Control, Optimisation, and Learning for Autonomy (COLA)**, with particular interests in model predictive control, safety-critical control, disturbance rejection, and estimation methods for autonomous systems. I develop theoretically grounded and computationally efficient control and learning approaches for systems operating under disturbances, uncertainties, and constraints, with applications in robotics, intelligent transportation, and energy systems. In these research areas, I have authored or co-authored a number of papers in leading journals and conferences, including Automatica, IEEE Transactions on Automatic Control, IEEE/ASME Transactions on Mechatronics, and IEEE Transactions on Automation Science and Engineering. According to Google Scholar, my publications have received 2152 citations, with an h-index of 19 and an i10-index of 27.
 
 
-<div style="border-left: 4px solid #6c757d; padding: 1em 1.2em; background: #f8f9fa; margin: 1.5em 0; border-radius: 4px;">
-  <strong style="display: block; margin-bottom: 0.5em; text-align: left;">
+<div style="border-left: 4px solid var(--global-theme-color); padding: 1em 1.2em; background: var(--global-card-bg-color); margin: 1.5em 0; border-radius: 6px;">
+  <strong style="display: block; margin-bottom: 0.5em;">
     📌 PhD & Visiting Opportunities
   </strong>
-  <div style="text-align: justify; text-justify: inter-word;">
+  <div style="text-align: justify;">
     <p>
       If your background and interests align with my research in <strong>COLA</strong>, I would be happy to hear from you. I am always interested in working with motivated PhD students and academic visitors. Prospective applicants are encouraged to complete 
       <a href="https://forms.gle/WNiuvowvF5YXDBnF6">this form</a> prior to contacting me. 
