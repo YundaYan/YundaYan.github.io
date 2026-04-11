@@ -7,8 +7,11 @@
 #rss_icon: false # comment this line to hide the RSS icon
 scholar_userid: s9IOtoMAAAAJ # your Google Scholar ID
 linkedin_username: yunda-yan-a72a851b7
-research_gate_profile: Yunda_Yan
-
+research_gate_profile: Yunda-Yan
+custom_social:
+  logo: /assets/img/ucl_logo2.png
+  title: UCL page
+  url: https://profiles.ucl.ac.uk/95124-yunda-yan
 
 #linkedin_username: yunda-yan-a72a851b7
 #research_gate_profile: Yunda_Yan
