@@ -14,6 +14,20 @@
 @article{yan2023surviving,
   title={Surviving disturbances: A predictive control framework with guaranteed safety},
   author={Yan, Yunda and Wang, Xue-Fang and Marshall, Benjamin James and Liu, Cunjia and Yang, Jun and Chen, Wen-Hua},
+  abstract={Rejecting all disturbances is an extravagant hope in safety-critical control systems, hence surviving
+them where possible is a sensible objective a controller can deliver. In order to build a theoretical
+framework starting from surviving all disturbances but taking the appropriate opportunity to reject
+them, a sufficient condition on surviving disturbances is first established by exploring the relation
+among steady sets of state, input, and disturbance, followed by an output reachability condition on
+rejecting disturbances. A new robust safety-critical model prediction control (MPC) framework is then
+developed by embedding the quartet of pseudo steady input, output, state, and disturbance (IOSD)
+into the optimisation. Unlike most existing tracking MPC setups, a new and unique formulation is
+adopted by taking the pseudo steady disturbance as an optimisation decision variable, rather than
+directly driven by the disturbance estimate. This new setup is able to decouple estimation error
+dynamics, significantly contributing to the guarantee of recursive feasibility, even if the disturbance
+or its estimate changes rapidly. Moreover, towards optimal coexistence with disturbances, offset-free
+tracking of a compromised reference can be achieved, if rejecting the disturbance conflicts with safetycritical specifications. Finally, the benefits of the proposed method have been demonstrated by both
+numerical simulations and experiments on aerial physical interaction.},
   journal={Automatica},
   volume={158},
   pages={111238},
