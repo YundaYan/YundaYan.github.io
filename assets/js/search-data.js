@@ -148,13 +148,6 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning.html";
             },},{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=s9IOtoMAAAAJ", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -162,11 +155,25 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/yunda-yan-a72a851b7", "_blank");
         },
       },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=s9IOtoMAAAAJ", "_blank");
+        },
+      },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/Yunda_Yan/", "_blank");
+          window.open("https://www.researchgate.net/profile/Yunda-Yan/", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://profiles.ucl.ac.uk/95124-yunda-yan", "_blank");
         },
       },{
       id: 'light-theme',
