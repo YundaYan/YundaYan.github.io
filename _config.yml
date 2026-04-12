@@ -7,7 +7,7 @@ first_name: Yunda
 middle_name: 
 last_name: Yan
 contact_note: >
-  Please feel free to contact me via email.
+  Email is the preferred way to contact me, as I do not regularly check social media.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
