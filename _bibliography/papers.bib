@@ -1,10 +1,34 @@
 ---
 ---
 
+@article{yan2026mpc,
+  title={MPC as a Copilot: A Predictive Filter Framework with Safety and Stability Guarantees},
+  author={Yan, Yunda and Tao, Chenxi and Su, Jinya and Liu, Cunjia and Li, Shihua},
+  journal={arXiv preprint},
+  year={2026},
+ abstract={Ensuring both safety and stability remains a fundamental challenge in learning-based control, where
+goal-oriented policies often neglect system constraints and closed-loop state convergence. To address this limitation, this paper introduces the Predictive Safety–Stability Filter (PS2F), a unified
+predictive filter framework that guarantees constraint satisfaction and asymptotic stability within a
+single architecture. The PS2F framework comprises two cascaded optimal control problems: a nominal model predictive control (MPC) layer that serves solely as a copilot, implicitly defining a Lyapunov function and generating safety- and stability-certified predicted trajectories, and a secondary
+filtering layer that adjusts external command to remain within a provably safe and stable region. This
+cascaded structure enables PS2F to inherit the theoretical guarantees of nominal MPC while accommodating goal-oriented external commands. Rigorous analysis establishes recursive feasibility and
+asymptotic stability of the closed-loop system without introducing additional conservatism beyond
+that associated with the nominal MPC. Furthermore, a time-varying parameterisation allows PS2F to
+transition smoothly between safety-prioritised and stability-oriented operation modes, providing a
+principled mechanism for balancing exploration and exploitation. The effectiveness of the proposed
+framework is demonstrated through comparative numerical experiments.},
+  html = {https://arxiv.org/abs/2603.27893},
+  pdf= {https://arxiv.org/pdf/2603.27893},
+ bibtex_show = {true},
+  preview={2026-PS2F-Arxiv.gif}
+}
+
+
+
 @inproceedings{gaponov2026project,
   title={Project-Based Learning for Year 1 Students in the Context of Robotics and Artificial Intelligence: A Robotics Challenge},
   author={Gaponov, Igor and Collier, Oliver and Charitonidis, Alex and Tozadore, Daniel and Yan, Yunda},
- booktitle={Accepted by the IEEE Global Engineering Education Conference (EDUCON)},
+ booktitle={the IEEE Global Engineering Education Conference (EDUCON)},
   year={2026},
   organization={IEEE},
    abstract={The paper provides an overview of a project-based
@@ -27,32 +51,12 @@ professional development, and team cohesion.},
   pdf= {https://discovery.ucl.ac.uk/id/eprint/10221049/1/m10006-gaponov%20final%20%281%29.pdf},
  video={https://www.youtube.com/watch?v=KxR1-sNMbZ4},
  bibtex_show = {true},
-  preview={xx}
+  preview={2026-RoboticsChallenge-EDUCON.gif}
 }
 
 
 
-@article{yan2026mpc,
-  title={MPC as a Copilot: A Predictive Filter Framework with Safety and Stability Guarantees},
-  author={Yan, Yunda and Tao, Chenxi and Su, Jinya and Liu, Cunjia and Li, Shihua},
-  journal={arXiv preprint},
-  year={2026},
- abstract={Ensuring both safety and stability remains a fundamental challenge in learning-based control, where
-goal-oriented policies often neglect system constraints and closed-loop state convergence. To address this limitation, this paper introduces the Predictive Safety–Stability Filter (PS2F), a unified
-predictive filter framework that guarantees constraint satisfaction and asymptotic stability within a
-single architecture. The PS2F framework comprises two cascaded optimal control problems: a nominal model predictive control (MPC) layer that serves solely as a copilot, implicitly defining a Lyapunov function and generating safety- and stability-certified predicted trajectories, and a secondary
-filtering layer that adjusts external command to remain within a provably safe and stable region. This
-cascaded structure enables PS2F to inherit the theoretical guarantees of nominal MPC while accommodating goal-oriented external commands. Rigorous analysis establishes recursive feasibility and
-asymptotic stability of the closed-loop system without introducing additional conservatism beyond
-that associated with the nominal MPC. Furthermore, a time-varying parameterisation allows PS2F to
-transition smoothly between safety-prioritised and stability-oriented operation modes, providing a
-principled mechanism for balancing exploration and exploitation. The effectiveness of the proposed
-framework is demonstrated through comparative numerical experiments.},
-  html = {https://arxiv.org/abs/2603.27893},
-  pdf= {https://arxiv.org/pdf/2603.27893},
- bibtex_show = {true},
-  preview={2026-PS2F-Arxiv.gif}
-}
+
 
 
 @article{marshall2025redundant,
