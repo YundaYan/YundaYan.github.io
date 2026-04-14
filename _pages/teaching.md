@@ -11,7 +11,7 @@ calendar: true
 
 I have extensive teaching experience in mathematics, control, and robotics-related modules at UCL. Since joining UCL at the early stage of the 
 <a href="https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/robotics-and-artificial-intelligence-meng" target="_blank"><b>MEng Robotics and Artificial Intelligence (RAI) programme</b></a>, 
-I have played a key role in the design and development of several new modules.
+I have played a key role in the design and development of several new modules from scratch.
 
 ## 🧩 Module Development
 
