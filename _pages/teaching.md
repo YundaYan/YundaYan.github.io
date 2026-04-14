@@ -2,12 +2,20 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Course materials, schedules, and resources for classes taught.
 nav: true
 nav_order: 3
 calendar: true
 ---
 
-I have broad teaching experience across both undergraduate and postgraduate levels, covering core topics in control theory, automation, and nonlinear systems. In addition to delivering lectures and supervising laboratory and project-based learning, I have supervised numerous undergraduate and MSc research projects, fostering students’ independent research and technical development. Beyond teaching, I have taken on significant academic service and leadership responsibilities, including programme directorship and academic leadership roles in student societies and laboratory management. These experiences have strengthened my commitment to high-quality teaching, student engagement, and the continuous enhancement of engineering education.
+I have teaching experience in mathematics, control, and robotics-related modules at UCL. I have also contributed to the development of several new modules from scratch, including:
+
+- **COMP0209 Data Structures and Algorithms** (50%)
+- **COMP0206 Mathematics for Robotics and Artificial Intelligence 2**
+- **COMP0211 Control 2**
+- **COMP0225 Robotics and Artificial Intelligence Group Project** (50%)
+- **COMP0242 Estimation and Control** (60%)
+
+
+These contributions involved curriculum design, assessment development, and the integration of theoretical and practical components to enhance student learning.
 
 {% include courses.liquid %}
