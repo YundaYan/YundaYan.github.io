@@ -44,9 +44,9 @@ These contributions involved curriculum design, assessment development, and the 
 
 <ul class="teaching-list">
   <li><b>COMP0218</b> Industrial Project in Robotics and Artificial Intelligence  <span class="tag">Undergraduate</span></li>
-  <li><b>COMP0225</b> Robotics and Artificial Intelligence Group Project<span class="tag">Undergraduate</span></li>
-  <li><b>COMP0XXX</b> Robotics and Artificial Intelligence Individual Project<span class="tag">Undergraduate</span></li>
-  <li><b>COMP0247</b> MSc Robotics and Artificial Intelligence Project<span class="tag">Postgraduate</span></li>
+  <li><b>COMP0225</b> Robotics and Artificial Intelligence Group Project <span class="tag">Undergraduate</span></li>
+  <li><b>COMP0XXX</b> Robotics and Artificial Intelligence Individual Project <span class="tag">Undergraduate</span></li>
+  <li><b>COMP0247</b> MSc Robotics and Artificial Intelligence Project <span class="tag">Postgraduate</span></li>
 </ul>
 
 
