@@ -7,29 +7,47 @@ nav_order: 3
 calendar: true
 ---
 
-I have teaching experience in mathematics, control, and robotics-related modules at UCL. Since joining UCL at the early stage of the MEng Robotics and Artificial Intelligence (RAI) programme, I have played a key role in developing several new modules from scratch, including:
+## Teaching and Module Development
 
-- **COMP0209 Data Structures and Algorithms** (50% contribution)  
-- **COMP0206 Mathematics for Robotics and Artificial Intelligence 2**  
-- **COMP0211 Control 2**  
-- **COMP0225 Robotics and Artificial Intelligence Group Project** (50% contribution)  
-- **COMP0242 Estimation and Control** (60% contribution)  
+I have extensive teaching experience in mathematics, control, and robotics-related modules at UCL. Since joining UCL at the early stage of the 
+<a href="https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/robotics-and-artificial-intelligence-meng" target="_blank"><b>MEng Robotics and Artificial Intelligence (RAI) programme</b></a>, 
+I have played a key role in the design and development of several new modules.
 
+### 🧩 Module Development
+
+<ul class="teaching-list">
+  <li><b>COMP0209</b> Data Structures and Algorithms <span class="tag">50%</span></li>
+  <li><b>COMP0206</b> Mathematics for Robotics and Artificial Intelligence 2</li>
+  <li><b>COMP0211</b> Control 2</li>
+  <li><b>COMP0225</b> Robotics and Artificial Intelligence Group Project <span class="tag">50%</span></li>
+  <li><b>COMP0242</b> Estimation and Control <span class="tag">60%</span></li>
+</ul>
+
+<p class="teaching-note">
 These contributions involved curriculum design, assessment development, and the integration of theoretical and practical components to enhance student learning.
+</p>
 
-Since 2024, I have served as the module leader for:
+---
 
-- **COMP0206 Mathematics for Robotics and Artificial Intelligence 2**  
-- **COMP0211 Control 2** (70% contribution)  
-- **COMP0225 Robotics and Artificial Intelligence Group Project** (50% contribution)  
-- **COMP0242 Estimation and Control** (60% contribution)
+### 🎓 Module Leadership (since 2024)
 
-I have also contributed to supervising student projects, including:
-- **COMP0218 Industrial Project in Robotics and Artificial Intelligence**  
-- **COMP0225 Robotics and Artificial Intelligence Group Project**
-- **COMP0XXX Robotics and Artificial Intelligence Individual Project**
-- **COMP0247 MSc Robotics and Artificial Intelligence Project**
+<ul class="teaching-list">
+  <li><b>COMP0206</b> Mathematics for Robotics and Artificial Intelligence 2</li>
+  <li><b>COMP0211</b> Control 2 <span class="tag">70%</span></li>
+  <li><b>COMP0225</b> Robotics and Artificial Intelligence Group Project <span class="tag">50%</span></li>
+  <li><b>COMP0242</b> Estimation and Control <span class="tag">60%</span></li>
+</ul>
 
+---
+
+### 👨‍🎓 Student Supervision
+
+<ul class="teaching-list">
+  <li><b>COMP0218</b> Industrial Project in Robotics and Artificial Intelligence</li>
+  <li><b>COMP0225</b> Robotics and Artificial Intelligence Group Project</li>
+  <li><b>COMP0XXX</b> Robotics and Artificial Intelligence Individual Project</li>
+  <li><b>COMP0247</b> MSc Robotics and Artificial Intelligence Project</li>
+</ul>
 
 
 <!--
