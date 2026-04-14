@@ -8,46 +8,53 @@ calendar: true
 ---
 
  
-
 I have extensive teaching experience in mathematics, control, and robotics-related modules at UCL. Since joining UCL at the early stage of the 
 <a href="https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/robotics-and-artificial-intelligence-meng" target="_blank"><b>MEng Robotics and Artificial Intelligence (RAI) programme</b></a>, 
-I have played a key role in the design and development of several new modules from scratch.
+I have played a leading role in designing and developing several core modules from scratch, contributing to both undergraduate and postgraduate education.
 
-## 🧩 Module Development
+## Module Development
 
-<ul class="teaching-list">
-  <li><b>COMP0209</b> Data Structures and Algorithms <span class="tag">50%</span></li>
-  <li><b>COMP0206</b> Mathematics for Robotics and Artificial Intelligence 2 <span class="tag">100%</span></li>
-  <li><b>COMP0211</b> Control 2 <span class="tag">100%</span></li>
-  <li><b>COMP0225</b> Robotics and Artificial Intelligence Group Project <span class="tag">50%</span></li>
-  <li><b>COMP0242</b> Estimation and Control <span class="tag">60%</span></li>
-</ul>
+- **COMP0209** Data Structures and Algorithms (50%)
+- **COMP0206** Mathematics for Robotics and Artificial Intelligence 2 (100%)
+- **COMP0211** Control 2 (100%)
+- **COMP0225** Robotics and Artificial Intelligence Group Project (50%)
+- **COMP0242** Estimation and Control (60%)
 
-<p class="teaching-note">
-These contributions involved curriculum design, assessment development, and the integration of theoretical and practical components to enhance student learning.
-</p>
+These contributions involved curriculum design, assessment development, and the integration of theoretical and practical components, with a focus on bridging foundational theory and real-world applications.
 
 ---
 
-## 🎓 Module Leadership (since 2024)
+## Module Leadership (since 2024)
 
-<ul class="teaching-list">
-  <li><b>COMP0206</b> Mathematics for Robotics and Artificial Intelligence 2  <span class="tag">100%</span></li>
-  <li><b>COMP0211</b> Control 2 <span class="tag">70%</span></li>
-  <li><b>COMP0225</b> Robotics and Artificial Intelligence Group Project <span class="tag">50%</span></li>
-  <li><b>COMP0242</b> Estimation and Control <span class="tag">60%</span></li>
-</ul>
+- **COMP0206** Mathematics for Robotics and Artificial Intelligence 2 (100%)
+- **COMP0211** Control 2 (70%)
+- **COMP0225** Robotics and Artificial Intelligence Group Project (50%)
+- **COMP0242** Estimation and Control (60%)
+
+As module leader, I am responsible for curriculum delivery, assessment design, and overall coordination, ensuring high-quality teaching and a consistent student learning experience.
 
 ---
 
-## 👨‍🎓 Student Supervision
+## Student Supervision
 
-<ul class="teaching-list">
-  <li><b>COMP0218</b> Industrial Project in Robotics and Artificial Intelligence  <span class="tag">Undergraduate Year 2</span></li>
-  <li><b>COMP0225</b> Robotics and Artificial Intelligence Group Project <span class="tag">Undergraduate Year 3</span></li>
-  <li><b>COMP0XXX</b> Robotics and Artificial Intelligence Individual Project <span class="tag">Undergraduate Year 4</span></li>
-  <li><b>COMP0247</b> MSc Robotics and Artificial Intelligence Project <span class="tag">Postgraduate</span></li>
-</ul>
+I have supervised a wide range of student projects across undergraduate and postgraduate levels, including:
+
+- **COMP0218** Industrial Project in Robotics and Artificial Intelligence (Undergraduate Year 2)
+- **COMP0225** Robotics and Artificial Intelligence Group Project (Undergraduate Year 3)
+- **COMP0XXX** Robotics and Artificial Intelligence Individual Project (Undergraduate Year 4)
+- **COMP0247** MSc Robotics and Artificial Intelligence Project (Postgraduate)
+
+My supervision focuses on developing students’ independent research skills, problem-solving abilities, and the integration of theory with practical implementation.
+
+---
+
+## Teaching Highlights
+
+- Contributed to the establishment of a new interdisciplinary MEng programme (Robotics and AI)
+- Designed and delivered newly developed modules at both undergraduate and MSc levels
+- Experience with diverse cohorts, including large undergraduate classes and MSc students
+- Delivered teaching in lectures, tutorials, and laboratory sessions
+
 
 
 <!--
