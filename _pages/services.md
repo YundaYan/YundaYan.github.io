@@ -6,13 +6,11 @@ nav: true
 nav_order: 4
 ---
 
-## Professional Services
-
 I actively contribute to the academic community through peer review, conference organisation, and academic service roles.
 
 ---
 
-## Journal Reviewing
+## Editorial services
 
 I regularly serve as a reviewer for leading journals in control, robotics, and automation, including:
 
@@ -24,14 +22,9 @@ I regularly serve as a reviewer for leading journals in control, robotics, and a
 
 ---
 
-## Conference Reviewing
+## Grant review
 
-I have served as a reviewer for major international conferences, including:
-
-- IEEE Conference on Decision and Control (CDC)  
-- American Control Conference (ACC)  
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)  
-- IEEE International Conference on Robotics and Automation (ICRA)  
+- EPSRC peer-review college
 
 ---
 
