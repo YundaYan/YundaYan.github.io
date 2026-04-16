@@ -28,7 +28,7 @@ I actively contribute to the academic community through editorial roles, confere
 - *Frontiers in Control Engineering* — Control and Planning for Distributed Multi-Agent Systems (2025-2026)  
 - *Electronics* — Reinforcement Learning Meets Control (2024–2025)  
 - *Machines* — Recent Progress in Multi-Robot Systems (2023–2025)  
-- *Electronics* — Control and Applications of Intelligent UAVs (Lead Guest Editor, 2022–2024)  
+- *Electronics* — Control and Applications of Intelligent UAVs (2022–2024)  
 - *Frontiers in Control Engineering* — Learning and Optimisation for Safety-Critical Control (2022–2023)  
 
 ---
