@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /group/
-title: Group
+permalink: /COLA members/
+title: Members
 nav: true
 nav_order: 5
 ---
