@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /COLA members/
+permalink: /COLA_members/
 title: Members
 nav: true
 nav_order: 5
