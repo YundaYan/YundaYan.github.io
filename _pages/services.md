@@ -6,26 +6,20 @@ nav: true
 nav_order: 4
 ---
 
-I actively contribute to the academic community through peer review, conference organisation, and academic service roles.
+I contribute to the academic community through editorial roles, conference organisation, and research evaluation activities.
 
 ---
 
-## Editorial services
+## Editorial Services
 
-* Associate Editor / Editorial Board
-  * IEEE Robotics & Automation Magazine (2023-2025)
-  * IEEE Robotics & Automation Letters (2022-2024)
-  * IET Cyber-Systems and Robotics
-  * Frontiers in Remote Sensing (2020-2023)
-  * Drones and Autonomous Vehicles
-* Conference Committee
-  * Genearl Chair: ICAC2025
-  * Program Chair: IEEE SWC 2023, ICAC2024, RiTA2024
-  * Conference AE: IEEE ICCA 2019, ICUAS'19, ICUAS'20
-  * Publication Chair: IEEE ICIT 2024
-  * Technical Program Committee: ROBOT 2022, ECMR 2023, TAROS 2025
+**Associate Editor / Editorial Board**
+
+- *Scientific Report* 
+- *Advanced Mechatronics* 
+- *2026 International Conference on Unmanned Aircraft Systems (ICUAS)* 
 
 ---
+
 
 ## Grant review
 
