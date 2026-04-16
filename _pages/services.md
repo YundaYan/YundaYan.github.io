@@ -7,7 +7,7 @@ nav_order: 4
 ---
 
 
-## Professional Services
+
 
 I actively contribute to the academic community through editorial roles, conference organisation, research evaluation, and academic service in control, robotics, and autonomous systems.
 
