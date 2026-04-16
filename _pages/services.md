@@ -25,11 +25,11 @@ I actively contribute to the academic community through editorial roles, confere
 
 ## Guest Editor
 
-- *Frontiers in Control Engineering* — Control and Planning for Distributed Multi-Agent Systems (2025)  
+- *Frontiers in Control Engineering* — Control and Planning for Distributed Multi-Agent Systems (2025-2026)  
 - *Electronics* — Reinforcement Learning Meets Control (2024–2025)  
 - *Machines* — Recent Progress in Multi-Robot Systems (2023–2025)  
 - *Electronics* — Control and Applications of Intelligent UAVs (Lead Guest Editor, 2022–2024)  
-- *Frontiers in Control Engineering* — Learning and Optimisation for Safety-Critical Control (Lead Guest Editor, 2022–2023)  
+- *Frontiers in Control Engineering* — Learning and Optimisation for Safety-Critical Control (2022–2023)  
 
 ---
 
@@ -37,7 +37,7 @@ I actively contribute to the academic community through editorial roles, confere
 
 - Track Chair — IEEE PRECEDE 2025  
 - Technical Program Committee — IEEE SWC 2023; IEEE VTC 2022  
-- Session Chair — multiple international conferences (IEEE, IFAC, IROS, ICAC, ICARM, ICIT)  
+- Session Chair — multiple international conferences (CACRE 2025, ICAC 2025, IEEE ICARM 2025, IEEE ICIT 2024)  
 
 ---
 
