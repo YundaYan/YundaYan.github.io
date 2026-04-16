@@ -1,28 +1,29 @@
 ---
-layout: group
-permalink: /group/
-title: Group
-description: members of the lab or group
+layout: page
+permalink: /people/
+title: People
 nav: true
 nav_order: 5
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
 ---
+
+## PhD Students
+
+### John Doe  
+PhD in Robotics (2025– )  
+Research: Safe Control, MPC  
+
+---
+
+## MSc Students
+
+### Jane Smith  
+MSc Robotics and AI (2024–2025)  
+Project: Multi-agent control  
+
+---
+
+## Alumni
+
+### Alice Brown  
+MSc RAI (2024)  
+Now at: XYZ Company
