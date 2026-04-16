@@ -15,7 +15,7 @@ I actively contribute to the academic community through editorial roles, confere
 
 ## Editorial Roles
 
-- Editorial Board Member — *Scientific Reports* (2026-Now), *Advanced Mechatronics* (2026-Now), *Journal of Artificial Intelligence and Control Systems* (2025–present)  
+- Editorial Board Member — *Scientific Reports* (2026-Now); *Advanced Mechatronics* (2026-Now); *Journal of Artificial Intelligence and Control Systems* (2025–present)  
 - Associate Editor — *International Conference on Unmanned Aircraft Systems (ICUAS 2026)*  
 
 ---
@@ -34,7 +34,7 @@ I actively contribute to the academic community through editorial roles, confere
 
 - Track Chair — IEEE PRECEDE 2025  
 - Technical Program Committee — IEEE SWC 2023; IEEE VTC 2022  
-- Session Chair — multiple international conferences (CACRE 2025, ICAC 2025, IEEE ICARM 2025, IEEE ICIT 2024)  
+- Session Chair — multiple international conferences (CACRE 2025; ICAC 2025; IEEE ICARM 2025; IEEE ICIT 2024)  
 
 ---
 
