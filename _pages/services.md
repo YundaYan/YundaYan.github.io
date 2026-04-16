@@ -12,13 +12,18 @@ I actively contribute to the academic community through peer review, conference 
 
 ## Editorial services
 
-I regularly serve as a reviewer for leading journals in control, robotics, and automation, including:
-
-- IEEE Transactions on Automatic Control  
-- Automatica  
-- IEEE/ASME Transactions on Mechatronics  
-- IEEE Transactions on Control Systems Technology  
-- IEEE Transactions on Automation Science and Engineering  
+* Associate Editor / Editorial Board
+  * IEEE Robotics & Automation Magazine (2023-2025)
+  * IEEE Robotics & Automation Letters (2022-2024)
+  * IET Cyber-Systems and Robotics
+  * Frontiers in Remote Sensing (2020-2023)
+  * Drones and Autonomous Vehicles
+* Conference Committee
+  * Genearl Chair: ICAC2025
+  * Program Chair: IEEE SWC 2023, ICAC2024, RiTA2024
+  * Conference AE: IEEE ICCA 2019, ICUAS'19, ICUAS'20
+  * Publication Chair: IEEE ICIT 2024
+  * Technical Program Committee: ROBOT 2022, ECMR 2023, TAROS 2025
 
 ---
 
@@ -32,7 +37,6 @@ I regularly serve as a reviewer for leading journals in control, robotics, and a
 
 - Deputy Programme Director, MEng Robotics and Artificial Intelligence, UCL  
 - Participation in academic recruitment and interview panels  
-- Contribution to programme development and curriculum design  
 
 ---
 
