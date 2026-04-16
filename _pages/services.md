@@ -15,8 +15,11 @@ I actively contribute to the academic community through editorial roles, confere
 
 ## Editorial Roles
 
-- Editorial Board Member — *Scientific Reports* (2026-Now); *Advanced Mechatronics* (2026-Now); *Journal of Artificial Intelligence and Control Systems* (2025–present)  
-- Associate Editor — *International Conference on Unmanned Aircraft Systems (ICUAS 2026)*  
+
+- Editorial Board Member — *Scientific Reports* (2026–present)  
+- Editorial Board Member — *Advanced Mechatronics* (2025–present)  
+- Editorial Board Member — *Journal of Artificial Intelligence and Control Systems* (2025–present)  
+- Associate Editor — *International Conference on Unmanned Aircraft Systems (ICUAS)* (2026–2027)  
 
 ---
 
