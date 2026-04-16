@@ -18,7 +18,7 @@ I have played a leading role in designing and developing several core modules fr
 - **COMP0206** Mathematics for Robotics and Artificial Intelligence 2 (100%)
 - **COMP0211** Control 2 (100%)
 - **COMP0225** Robotics and Artificial Intelligence Group Project (50%)
-- **COMP0242** Estimation and Control (60%)
+- **COMP0242** Estimation and Control (67%)
 
 These contributions involved curriculum design, assessment development, and the integration of theoretical and practical components, with a focus on bridging foundational theory and real-world applications.
 
@@ -29,7 +29,7 @@ These contributions involved curriculum design, assessment development, and the 
 - **COMP0206** Mathematics for Robotics and Artificial Intelligence 2 (100%)
 - **COMP0211** Control 2 (70%)
 - **COMP0225** Robotics and Artificial Intelligence Group Project (50%)
-- **COMP0242** Estimation and Control (60%)
+- **COMP0242** Estimation and Control (67%)
 
 As module leader, I am responsible for curriculum delivery, assessment design, and overall coordination, ensuring high-quality teaching and a consistent student learning experience.
 
