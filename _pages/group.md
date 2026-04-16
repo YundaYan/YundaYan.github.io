@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /people/
-title: People
+permalink: /group/
+title: Group
 nav: true
 nav_order: 5
 ---
