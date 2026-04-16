@@ -12,10 +12,9 @@ I contribute to the academic community through editorial roles, conference organ
 
 ## Editorial Services
 
-**Associate Editor / Editorial Board**
-
 - *Scientific Report* 
-- *Advanced Mechatronics* 
+- *Advanced Mechatronics*
+- *Special Session: “Control and Planning for Distributed Multi-Agent Systems”, Frontiers in Control Engineering*
 - *2026 International Conference on Unmanned Aircraft Systems (ICUAS)* 
 
 ---
