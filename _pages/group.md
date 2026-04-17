@@ -5,6 +5,9 @@ title: Members
 nav: true
 nav_order: 5
 ---
+Welcome to the Control, Optimisation, and Learning for Autonomous Systems (COLA) Lab.
+
+Current members are listed below.
 
 ## PhD Students
 
