@@ -66,7 +66,10 @@ Current members are listed below.
 ## Alumni
 
 - **Dr Xinming Wang**  
-  PhD, now Research Associate at Cardiff University  
+  PhD, now Research Associate at Cardiff University
+
+- **Dr Benjamin J Marshall,**  
+  PhD, now Engineer at Frazer-Nash Consultancy
 
 - **Dr Kai Wang**  
   Postdoctoral Researcher, now Research Associate at Linköping University  
