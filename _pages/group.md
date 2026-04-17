@@ -50,6 +50,19 @@ Current members are listed below.
   Project: Vibration attenuation for long-reach manipulation  
 ---
 
+## Visitors
+
+- **Dr Zuo Wang** (2025–2026)  
+  Visiting Researcher, Southeast University  
+
+- **Mr Hao Chen** (2025–2026)  
+  Visiting PhD Student, Tianjin University  
+
+- **Mr Pengfei Liu** (2025–2026)  
+  Visiting PhD Student, Southeast University  
+
+---
+
 ## Alumni
 
 - **Dr Xinming Wang**  
