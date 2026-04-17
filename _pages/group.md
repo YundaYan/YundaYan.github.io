@@ -48,6 +48,7 @@ Current members are listed below.
 - **Miss Nargiz Hasanova**, **Mr Mak Mesanovic**  
   MSc Robotics and AI (2025–2026)  
   Project: Vibration attenuation for long-reach manipulation  
+
 ---
 
 ## Visitors
