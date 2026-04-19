@@ -19,7 +19,7 @@ nav_order: 5
 
   Welcome to the UCL 
 
-  <strong>Control, Optimisation, and Learning for Autonomy</strong> Lab.
+  <strong>Control, Optimisation, and Learning for Autonomy (COLA)</strong> Lab.
 
 </p>
 
