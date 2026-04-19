@@ -7,12 +7,20 @@ nav_order: 5
 ---
 
 
-<p>
+<div style="text-align: center; margin-bottom: 1.5rem;">
+
+  <img src="/assets/img/cola_full.png" alt="COLA logo"
+
+       style="height: 60px;">
+
+</div>
+
+<p style="text-align: center;">
+
   Welcome to the UCL 
-  <strong>Control, Optimisation, and Learning for Autonomy</strong>
-  <img src="/assets/img/cola_full.png" alt="COLA"
-        style="height: 26px; vertical-align: -5px;">
-  Lab.
+
+  <strong>Control, Optimisation, and Learning for Autonomy</strong> Lab.
+
 </p>
 
 <p>
