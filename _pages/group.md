@@ -15,7 +15,7 @@ nav_order: 5
 
 </div>
 
-<p style="text-align: center;">
+<p>
 
   Welcome to the UCL 
 
