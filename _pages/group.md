@@ -19,7 +19,7 @@ nav_order: 5
   Current members are listed below.
 </p>
 
-
+---
 
 ## PhD Students
 
