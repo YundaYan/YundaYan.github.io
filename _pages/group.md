@@ -5,7 +5,7 @@ title: Members
 nav: true
 nav_order: 5
 ---
-Welcome to the **Control, Optimisation, and Learning for Autonomy (COLA)** Lab.
+Welcome to the UCL **Control, Optimisation, and Learning for Autonomy (COLA)** Lab.
 
 Current members are listed below.
 
