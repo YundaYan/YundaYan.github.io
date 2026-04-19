@@ -8,20 +8,16 @@ nav_order: 5
 
 
 <p>
-
   Welcome to the UCL 
-
   <strong>Control, Optimisation, and Learning for Autonomy</strong>
-
-  <img src="/assets/img/cola_full.png" alt="COLA"
-
-       style="height: 28px; vertical-align: -6px; margin-left: 6px;">
-
+  (<img src="/assets/img/cola_full.png" alt="COLA"
+        style="height: 26px; vertical-align: -5px;">)
   Lab.
-
 </p>
 
- Current members are listed below.
+<p style="margin-top: 1rem;">
+  Current members are listed below.
+</p>
 
 
 ---
