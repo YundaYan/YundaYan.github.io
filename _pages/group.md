@@ -21,7 +21,7 @@ Current members are listed below. -->
 
 <div style="display: flex; align-items: center; gap: 1.5rem; margin: 1.5rem 0 2rem 0;">
 
-  <img src="/assets/img/cola_logo.png" alt="COLA Lab logo" style="width: 120px; height: auto;">
+  <img src="/assets/img/cola_full.png" alt="COLA Lab logo" style="width: 120px; height: auto;">
 
   <div>
 
