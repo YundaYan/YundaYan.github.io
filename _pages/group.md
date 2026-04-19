@@ -5,6 +5,16 @@ title: Members
 nav: true
 nav_order: 5
 ---
+
+
+
+<div style="text-align: center; margin: 1.5rem 0 2rem 0;">
+
+  <img src="/assets/img/cola_full.png" alt="COLA Lab logo" style="max-width: 180px; height: auto;">
+
+</div>
+
+
 Welcome to the UCL **Control, Optimisation, and Learning for Autonomy (COLA)** Lab.
 
 Current members are listed below.
