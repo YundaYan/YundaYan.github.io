@@ -15,15 +15,11 @@ nav_order: 5
   Lab.
 </p>
 
-<p style="
-  margin-top: 1.2rem;
-  font-size: 1.05rem;
-  color: #444;">
+<p>
   Current members are listed below.
 </p>
 
-<hr style="margin: 1.2rem 0;">
----
+
 
 ## PhD Students
 
