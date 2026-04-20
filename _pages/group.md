@@ -13,11 +13,11 @@ nav_order: 5
 </p>
 
 
-<div style="text-align: center; margin-bottom: 1.5rem;">
+<div style="text-align: left; margin-bottom: 1.5rem;">
 
   <img src="/assets/img/cola_full.png" alt="COLA logo"
 
-       style="height: 60px;">
+       style="height: 100px;">
 
 </div>
 
