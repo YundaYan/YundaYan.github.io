@@ -17,7 +17,7 @@ nav_order: 5
 
   <img src="/assets/img/cola_full.png" alt="COLA logo"
 
-       style="height: 120px;">
+       style="height: 150px;">
 
 </div>
 
