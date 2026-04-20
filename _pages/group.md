@@ -6,6 +6,13 @@ nav: true
 nav_order: 5
 ---
 
+<p>
+
+  Welcome to the UCL COLA Lab.
+
+</p>
+
+
 
 <div style="text-align: center; margin-bottom: 1.5rem;">
 
@@ -15,11 +22,6 @@ nav_order: 5
 
 </div>
 
-<p>
-
-  Welcome to the UCL  <strong>Control, Optimisation, and Learning for Autonomy (COLA)</strong> Lab.
-
-</p>
 
 <p>
   Current members are listed below.
