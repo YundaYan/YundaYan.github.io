@@ -44,7 +44,7 @@ nav_order: 5
 - **Mr Yingxiang Lin** (2025– )  
   Co-supervised with Dr Boli Chen  
 
-- **Mr Yixun Wen** (2026– )  
+- **Miss Yixun Wen** (2026– )  
   Co-supervised with Dr Boli Chen  
 
 - **Mr Pengfei Xie** (2025– )  
