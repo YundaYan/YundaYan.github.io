@@ -13,7 +13,6 @@ nav_order: 5
 </p>
 
 
-
 <div style="text-align: center; margin-bottom: 1.5rem;">
 
   <img src="/assets/img/cola_full.png" alt="COLA logo"
