@@ -10,10 +10,6 @@ nav_order: 5
 
 Welcome to the UCL Control, Optimisation, and Learning for Autonomy (COLA) Lab. 
 
-The COLA Lab is dedicated to advancing both fundamental theory and practical applications at the intersection of control engineering, optimisation, and machine learning. 
-
-Our mission is to develop safe, efficient, and intelligent autonomous systems capable of operating in complex, uncertain, and dynamic environments.
-
 </p>
 
 
@@ -24,6 +20,11 @@ Our mission is to develop safe, efficient, and intelligent autonomous systems ca
        style="height: 150px;">
 
 </div>
+
+<p>
+The COLA Lab is dedicated to advancing both fundamental theory and practical applications at the intersection of control engineering, optimisation, and machine learning. Our mission is to develop safe, efficient, and intelligent autonomous systems capable of operating in complex, uncertain, and dynamic environments.
+</p>
+
 
 
 <p>
