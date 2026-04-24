@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-04-24'
 papers:
   s9IOtoMAAAAJ:-f6ydRqryjwC:
     citations: 2
     title: Distributed robust seeking of Nash equilibria with applications to autonomous vehicles in mobile sensor networks
     year: '2024'
   s9IOtoMAAAAJ:0EnyYjriUFMC:
-    citations: 62
+    citations: 63
     title: Finite-time feedforward decoupling and precise decentralized control for DC microgrids towards large-signal stability
     year: '2019'
   s9IOtoMAAAAJ:3fE2CSJIrl8C:
-    citations: 96
+    citations: 97
     title: Optimal path following for small fixed-wing UAVs under wind disturbances
     year: '2020'
   s9IOtoMAAAAJ:4JMBOYKVnBMC:
@@ -50,11 +50,11 @@ papers:
     title: "Robust voltage regulation of a DC\u2013AC inverter with load variations via a HDOBC approach"
     year: '2018'
   s9IOtoMAAAAJ:L8Ckcad2t8MC:
-    citations: 13
+    citations: 15
     title: Dual control of exploration and exploitation for auto-optimization control with active learning
     year: '2024'
   s9IOtoMAAAAJ:LkGwnXOMwfcC:
-    citations: 59
+    citations: 60
     title: 'A nonsmooth composite control design framework for nonlinear systems with mismatched disturbances: Algorithms and experimental tests'
     year: '2018'
   s9IOtoMAAAAJ:M3ejUd6NZC8C:
@@ -62,11 +62,11 @@ papers:
     title: Vision-based UAV landing with guaranteed reliability in adverse environment
     year: '2023'
   s9IOtoMAAAAJ:MXK_kJrjxJIC:
-    citations: 211
+    citations: 213
     title: An offset-free composite model predictive control strategy for DC/DC buck converter feeding constant power loads
     year: '2019'
   s9IOtoMAAAAJ:QIV2ME_5wuYC:
-    citations: 35
+    citations: 37
     title: 'Surviving disturbances: A predictive control framework with guaranteed safety'
     year: '2023'
   s9IOtoMAAAAJ:R3hNpaxXUhUC:
@@ -78,7 +78,7 @@ papers:
     title: Current-constrained finite-time control scheme for speed regulation of PMSM systems with unmatched disturbances
     year: '2025'
   s9IOtoMAAAAJ:Se3iqnhoufwC:
-    citations: 43
+    citations: 44
     title: Generalized dynamic predictive control for nonparametric uncertain systems with application to series elastic actuators
     year: '2018'
   s9IOtoMAAAAJ:TFP_iSt0sucC:
@@ -90,7 +90,7 @@ papers:
     title: Safety-critical disturbance rejection control of nonlinear systems with unmatched disturbances
     year: '2024'
   s9IOtoMAAAAJ:ULOm3_A8WrAC:
-    citations: 48
+    citations: 49
     title: "Output feedback\u2010based sliding mode control for disturbed motion control systems via a higher\u2010order ESO approach"
     year: '2018'
   s9IOtoMAAAAJ:UeHWp8X0CEIC:
@@ -114,7 +114,7 @@ papers:
     title: A composite current-constrained control for permanent magnet synchronous motor with time-varying disturbance
     year: '2017'
   s9IOtoMAAAAJ:YOwf2qJgpHMC:
-    citations: 37
+    citations: 38
     title: Continuous output feedback sliding mode control for underactuated flexible-joint robot
     year: '2022'
   s9IOtoMAAAAJ:ZeXyd9-uunAC:
@@ -146,7 +146,7 @@ papers:
     title: A Current-Constrained Finite-Time Disturbance Rejection Control Scheme for Buck Converter
     year: '2024'
   s9IOtoMAAAAJ:hC7cP41nSMkC:
-    citations: 7
+    citations: 8
     title: On recursive feasibility and stability of constrained output regulation
     year: '2024'
   s9IOtoMAAAAJ:hFOr9nPyWt4C:
@@ -178,11 +178,11 @@ papers:
     title: 'Guarding force: Safety-critical compliant control for robot-environment interaction'
     year: '2025'
   s9IOtoMAAAAJ:qjMakFHDy7sC:
-    citations: 753
+    citations: 759
     title: "Disturbance/uncertainty estimation and attenuation techniques in PMSM drives\u2014A survey"
     year: '2016'
   s9IOtoMAAAAJ:qxL8FJ1GzNcC:
-    citations: 25
+    citations: 26
     title: Generalized dynamic predictive control for nonlinear systems subject to mismatched disturbances with application to PMSM drives
     year: '2023'
   s9IOtoMAAAAJ:r0BpntZqJG4C:
@@ -190,10 +190,10 @@ papers:
     title: 'Enhancing Robustness of Control Barrier Function: A Reciprocal Resistance-based Approach'
     year: '2025'
   s9IOtoMAAAAJ:roLk4NBRz8UC:
-    citations: 10
+    citations: 11
     title: Global dynamic nonrecursive realization of decentralized nonsmooth exact tracking for large-scale interconnected nonlinear systems
     year: '2018'
   s9IOtoMAAAAJ:ufrVoPGSRksC:
-    citations: 272
+    citations: 273
     title: Robust speed regulation for PMSM servo system with multiple sources of disturbances via an augmented disturbance observer
     year: '2018'
