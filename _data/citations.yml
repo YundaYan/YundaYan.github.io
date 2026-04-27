@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-04-27'
 papers:
   s9IOtoMAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -10,7 +10,7 @@ papers:
     title: Finite-time feedforward decoupling and precise decentralized control for DC microgrids towards large-signal stability
     year: '2019'
   s9IOtoMAAAAJ:3fE2CSJIrl8C:
-    citations: 97
+    citations: 98
     title: Optimal path following for small fixed-wing UAVs under wind disturbances
     year: '2020'
   s9IOtoMAAAAJ:4JMBOYKVnBMC:
@@ -62,7 +62,7 @@ papers:
     title: Vision-based UAV landing with guaranteed reliability in adverse environment
     year: '2023'
   s9IOtoMAAAAJ:MXK_kJrjxJIC:
-    citations: 213
+    citations: 214
     title: An offset-free composite model predictive control strategy for DC/DC buck converter feeding constant power loads
     year: '2019'
   s9IOtoMAAAAJ:QIV2ME_5wuYC:
@@ -74,11 +74,11 @@ papers:
     title: Control and applications of intelligent unmanned aerial vehicles
     year: '2025'
   s9IOtoMAAAAJ:RHpTSmoSYBkC:
-    citations: 5
+    citations: 6
     title: Current-constrained finite-time control scheme for speed regulation of PMSM systems with unmatched disturbances
     year: '2025'
   s9IOtoMAAAAJ:Se3iqnhoufwC:
-    citations: 44
+    citations: 45
     title: Generalized dynamic predictive control for nonparametric uncertain systems with application to series elastic actuators
     year: '2018'
   s9IOtoMAAAAJ:TFP_iSt0sucC:
@@ -86,7 +86,7 @@ papers:
     title: 'MPC as a Copilot: A Predictive Filter Framework with Safety and Stability Guarantees'
     year: '2026'
   s9IOtoMAAAAJ:TQgYirikUcIC:
-    citations: 29
+    citations: 30
     title: Safety-critical disturbance rejection control of nonlinear systems with unmatched disturbances
     year: '2024'
   s9IOtoMAAAAJ:ULOm3_A8WrAC:
@@ -122,7 +122,7 @@ papers:
     title: 'Prescribed performance motion control: A control barrier function approach'
     year: '2024'
   s9IOtoMAAAAJ:Zph67rFs4hoC:
-    citations: 8
+    citations: 9
     title: Dual-layer optimization-based control allocation for a fixed-wing UAV
     year: '2021'
   s9IOtoMAAAAJ:_Qo2XoVZTnwC:
@@ -166,7 +166,7 @@ papers:
     title: Prescribed Vibration Control for Long Slender Remote Systems in Nuclear Decommissioning
     year: '2024'
   s9IOtoMAAAAJ:kNdYIx-mwKoC:
-    citations: 60
+    citations: 61
     title: On the actuator dynamics of dynamic control allocation for a small fixed-wing UAV with direct lift control
     year: '2020'
   s9IOtoMAAAAJ:mB3voiENLucC:
@@ -178,7 +178,7 @@ papers:
     title: 'Guarding force: Safety-critical compliant control for robot-environment interaction'
     year: '2025'
   s9IOtoMAAAAJ:qjMakFHDy7sC:
-    citations: 759
+    citations: 761
     title: "Disturbance/uncertainty estimation and attenuation techniques in PMSM drives\u2014A survey"
     year: '2016'
   s9IOtoMAAAAJ:qxL8FJ1GzNcC:
