@@ -41,7 +41,7 @@ I have supervised a wide range of student projects across undergraduate and post
 
 - **COMP0218** Industrial Project in Robotics and Artificial Intelligence (Undergraduate Year 2)
 - **COMP0225** Robotics and Artificial Intelligence Group Project (Undergraduate Year 3)
-- **COMP0XXX** Robotics and Artificial Intelligence Individual Project (Undergraduate Year 4)
+- **COMP0231** Robotics and Artificial Intelligence Individual Project (Undergraduate Year 4)
 - **COMP0247** MSc Robotics and Artificial Intelligence Project (Postgraduate)
 
 My supervision focuses on developing students’ independent research skills, problem-solving abilities, and the integration of theory with practical implementation.
