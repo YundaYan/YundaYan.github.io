@@ -1,28 +1,28 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-27'
 papers:
   s9IOtoMAAAAJ:-f6ydRqryjwC:
     citations: 2
     title: Distributed robust seeking of Nash equilibria with applications to autonomous vehicles in mobile sensor networks
     year: '2024'
   s9IOtoMAAAAJ:0EnyYjriUFMC:
-    citations: 63
+    citations: 65
     title: Finite-time feedforward decoupling and precise decentralized control for DC microgrids towards large-signal stability
     year: '2019'
   s9IOtoMAAAAJ:3fE2CSJIrl8C:
-    citations: 98
+    citations: 103
     title: Optimal path following for small fixed-wing UAVs under wind disturbances
     year: '2020'
   s9IOtoMAAAAJ:4JMBOYKVnBMC:
-    citations: 0
+    citations: 1
     title: Safety-Critical Predictive Control for Dynamic Visual Servoing of Robot Manipulators with Visibility Constraints
     year: '2025'
   s9IOtoMAAAAJ:5nxA0vEk-isC:
-    citations: 63
+    citations: 66
     title: Semiglobal finite-time trajectory tracking realization for disturbed nonlinear systems via higher-order sliding modes
     year: '2019'
   s9IOtoMAAAAJ:7PzlFSSx8tAC:
-    citations: 13
+    citations: 17
     title: Wind disturbance compensated path-following control for fixed-wing UAVs in arbitrarily strong winds
     year: '2024'
   s9IOtoMAAAAJ:8k81kl-MbHgC:
@@ -30,7 +30,7 @@ papers:
     title: "Non\u2010linear\u2010disturbance\u2010observer\u2010enhanced MPC for motion control systems with multiple disturbances"
     year: '2020'
   s9IOtoMAAAAJ:9ZlFYXVOiuMC:
-    citations: 18
+    citations: 19
     title: 'AID-RL: Active information-directed reinforcement learning for autonomous source seeking and estimation'
     year: '2023'
   s9IOtoMAAAAJ:HDshCWvjkbEC:
@@ -45,28 +45,36 @@ papers:
     citations: 15
     title: Disturbance rejection control method based on composite disturbance observer for permanent magnet synchronous motor
     year: '2015'
+  s9IOtoMAAAAJ:JV2RwH3_ST0C:
+    citations: 4
+    title: Extended State Observer Based Model Prediction Control for PMSM Field Weakening Control
+    year: '2024'
   s9IOtoMAAAAJ:KlAtU1dfN6UC:
-    citations: 39
+    citations: 40
     title: "Robust voltage regulation of a DC\u2013AC inverter with load variations via a HDOBC approach"
     year: '2018'
   s9IOtoMAAAAJ:L8Ckcad2t8MC:
-    citations: 15
+    citations: 17
     title: Dual control of exploration and exploitation for auto-optimization control with active learning
     year: '2024'
   s9IOtoMAAAAJ:LkGwnXOMwfcC:
     citations: 60
     title: 'A nonsmooth composite control design framework for nonlinear systems with mismatched disturbances: Algorithms and experimental tests'
     year: '2018'
+  s9IOtoMAAAAJ:M3NEmzRMIkIC:
+    citations: 0
+    title: Mobile Robot Localization and Prediction by UKF with Neural Network Aided Modeling
+    year: '2025'
   s9IOtoMAAAAJ:M3ejUd6NZC8C:
-    citations: 12
+    citations: 14
     title: Vision-based UAV landing with guaranteed reliability in adverse environment
     year: '2023'
   s9IOtoMAAAAJ:MXK_kJrjxJIC:
-    citations: 214
+    citations: 216
     title: An offset-free composite model predictive control strategy for DC/DC buck converter feeding constant power loads
     year: '2019'
   s9IOtoMAAAAJ:QIV2ME_5wuYC:
-    citations: 37
+    citations: 39
     title: 'Surviving disturbances: A predictive control framework with guaranteed safety'
     year: '2023'
   s9IOtoMAAAAJ:R3hNpaxXUhUC:
@@ -74,7 +82,7 @@ papers:
     title: Control and applications of intelligent unmanned aerial vehicles
     year: '2025'
   s9IOtoMAAAAJ:RHpTSmoSYBkC:
-    citations: 6
+    citations: 7
     title: Current-constrained finite-time control scheme for speed regulation of PMSM systems with unmatched disturbances
     year: '2025'
   s9IOtoMAAAAJ:Se3iqnhoufwC:
@@ -86,11 +94,11 @@ papers:
     title: 'MPC as a Copilot: A Predictive Filter Framework with Safety and Stability Guarantees'
     year: '2026'
   s9IOtoMAAAAJ:TQgYirikUcIC:
-    citations: 30
+    citations: 31
     title: Safety-critical disturbance rejection control of nonlinear systems with unmatched disturbances
     year: '2024'
   s9IOtoMAAAAJ:ULOm3_A8WrAC:
-    citations: 49
+    citations: 50
     title: "Output feedback\u2010based sliding mode control for disturbed motion control systems via a higher\u2010order ESO approach"
     year: '2018'
   s9IOtoMAAAAJ:UeHWp8X0CEIC:
@@ -118,7 +126,7 @@ papers:
     title: Continuous output feedback sliding mode control for underactuated flexible-joint robot
     year: '2022'
   s9IOtoMAAAAJ:ZeXyd9-uunAC:
-    citations: 20
+    citations: 23
     title: 'Prescribed performance motion control: A control barrier function approach'
     year: '2024'
   s9IOtoMAAAAJ:Zph67rFs4hoC:
@@ -137,6 +145,10 @@ papers:
     citations: 0
     title: Decentralized Periodic Event-Triggered Control for Large-Scale Systems With Unknown Nonlinear Interconnections and Measurement Delays
     year: '2026'
+  s9IOtoMAAAAJ:blknAaTinKkC:
+    citations: 0
+    title: 'Project-Based Learning for Year 1 Students in the Context of Robotics and Artificial Intelligence: A Robotics Challenge'
+    year: '2026'
   s9IOtoMAAAAJ:dhFuZR0502QC:
     citations: 9
     title: Disturbance observer based MPC for PMSM with multiple disturbances
@@ -150,9 +162,13 @@ papers:
     title: On recursive feasibility and stability of constrained output regulation
     year: '2024'
   s9IOtoMAAAAJ:hFOr9nPyWt4C:
-    citations: 3
+    citations: 4
     title: Time-efficient model predictive control for autonomous tugs with adaptive input constraints
     year: '2024'
+  s9IOtoMAAAAJ:hMod-77fHWUC:
+    citations: 0
+    title: Disturbance observer-based composite SOSM control design with applications to DC-DC converters
+    year: '2026'
   s9IOtoMAAAAJ:hqOjcs7Dif8C:
     citations: 36
     title: 'Disturbance rejection for nonlinear uncertain systems with output measurement errors: Application to a helicopter model'
@@ -169,20 +185,28 @@ papers:
     citations: 61
     title: On the actuator dynamics of dynamic control allocation for a small fixed-wing UAV with direct lift control
     year: '2020'
+  s9IOtoMAAAAJ:k_IJM867U9cC:
+    citations: 0
+    title: 'Project-Based Learning for Year 1 Students in the Context of Robotics and Artificial Intelligence: A Robotics Challenge'
+    year: Unknown Year
   s9IOtoMAAAAJ:mB3voiENLucC:
     citations: 1
     title: 'New stability theory of model predictive control: modified stage cost approach'
     year: '2025'
+  s9IOtoMAAAAJ:maZDTaKrznsC:
+    citations: 0
+    title: An Event-Triggered Robust Reinforcement Learning Scheme for Nonlinear Systems with Unknown Disturbances
+    year: '2026'
   s9IOtoMAAAAJ:qUcmZB5y_30C:
-    citations: 5
+    citations: 8
     title: 'Guarding force: Safety-critical compliant control for robot-environment interaction'
     year: '2025'
   s9IOtoMAAAAJ:qjMakFHDy7sC:
-    citations: 761
+    citations: 766
     title: "Disturbance/uncertainty estimation and attenuation techniques in PMSM drives\u2014A survey"
     year: '2016'
   s9IOtoMAAAAJ:qxL8FJ1GzNcC:
-    citations: 26
+    citations: 27
     title: Generalized dynamic predictive control for nonlinear systems subject to mismatched disturbances with application to PMSM drives
     year: '2023'
   s9IOtoMAAAAJ:r0BpntZqJG4C:
@@ -190,10 +214,10 @@ papers:
     title: 'Enhancing Robustness of Control Barrier Function: A Reciprocal Resistance-based Approach'
     year: '2025'
   s9IOtoMAAAAJ:roLk4NBRz8UC:
-    citations: 11
+    citations: 13
     title: Global dynamic nonrecursive realization of decentralized nonsmooth exact tracking for large-scale interconnected nonlinear systems
     year: '2018'
   s9IOtoMAAAAJ:ufrVoPGSRksC:
-    citations: 273
+    citations: 277
     title: Robust speed regulation for PMSM servo system with multiple sources of disturbances via an augmented disturbance observer
     year: '2018'
