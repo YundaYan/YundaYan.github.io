@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-12'
 papers:
   s9IOtoMAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -94,7 +94,7 @@ papers:
     title: 'MPC as a Copilot: A Predictive Filter Framework with Safety and Stability Guarantees'
     year: '2026'
   s9IOtoMAAAAJ:TQgYirikUcIC:
-    citations: 33
+    citations: 34
     title: Safety-critical disturbance rejection control of nonlinear systems with unmatched disturbances
     year: '2024'
   s9IOtoMAAAAJ:ULOm3_A8WrAC:
@@ -126,7 +126,7 @@ papers:
     title: Continuous output feedback sliding mode control for underactuated flexible-joint robot
     year: '2022'
   s9IOtoMAAAAJ:ZeXyd9-uunAC:
-    citations: 24
+    citations: 25
     title: 'Prescribed performance motion control: A control barrier function approach'
     year: '2024'
   s9IOtoMAAAAJ:Zph67rFs4hoC:
@@ -182,7 +182,7 @@ papers:
     title: Prescribed Vibration Control for Long Slender Remote Systems in Nuclear Decommissioning
     year: '2024'
   s9IOtoMAAAAJ:kNdYIx-mwKoC:
-    citations: 61
+    citations: 63
     title: On the actuator dynamics of dynamic control allocation for a small fixed-wing UAV with direct lift control
     year: '2020'
   s9IOtoMAAAAJ:k_IJM867U9cC:
@@ -198,7 +198,7 @@ papers:
     title: An Event-Triggered Robust Reinforcement Learning Scheme for Nonlinear Systems with Unknown Disturbances
     year: '2026'
   s9IOtoMAAAAJ:qUcmZB5y_30C:
-    citations: 8
+    citations: 9
     title: 'Guarding force: Safety-critical compliant control for robot-environment interaction'
     year: '2025'
   s9IOtoMAAAAJ:qjMakFHDy7sC:
@@ -218,6 +218,6 @@ papers:
     title: Global dynamic nonrecursive realization of decentralized nonsmooth exact tracking for large-scale interconnected nonlinear systems
     year: '2018'
   s9IOtoMAAAAJ:ufrVoPGSRksC:
-    citations: 278
+    citations: 279
     title: Robust speed regulation for PMSM servo system with multiple sources of disturbances via an augmented disturbance observer
     year: '2018'
