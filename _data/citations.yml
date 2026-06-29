@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-06-29'
 papers:
   s9IOtoMAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -18,7 +18,7 @@ papers:
     title: Safety-Critical Predictive Control for Dynamic Visual Servoing of Robot Manipulators with Visibility Constraints
     year: '2025'
   s9IOtoMAAAAJ:5nxA0vEk-isC:
-    citations: 68
+    citations: 69
     title: Semiglobal finite-time trajectory tracking realization for disturbed nonlinear systems via higher-order sliding modes
     year: '2019'
   s9IOtoMAAAAJ:7PzlFSSx8tAC:
@@ -54,11 +54,11 @@ papers:
     title: "Robust voltage regulation of a DC\u2013AC inverter with load variations via a HDOBC approach"
     year: '2018'
   s9IOtoMAAAAJ:L8Ckcad2t8MC:
-    citations: 17
+    citations: 18
     title: Dual control of exploration and exploitation for auto-optimization control with active learning
     year: '2024'
   s9IOtoMAAAAJ:LkGwnXOMwfcC:
-    citations: 60
+    citations: 61
     title: 'A nonsmooth composite control design framework for nonlinear systems with mismatched disturbances: Algorithms and experimental tests'
     year: '2018'
   s9IOtoMAAAAJ:M3NEmzRMIkIC:
@@ -126,7 +126,7 @@ papers:
     title: Continuous output feedback sliding mode control for underactuated flexible-joint robot
     year: '2022'
   s9IOtoMAAAAJ:ZeXyd9-uunAC:
-    citations: 28
+    citations: 29
     title: 'Prescribed performance motion control: A control barrier function approach'
     year: '2024'
   s9IOtoMAAAAJ:Zph67rFs4hoC:
@@ -202,7 +202,7 @@ papers:
     title: 'Guarding force: Safety-critical compliant control for robot-environment interaction'
     year: '2025'
   s9IOtoMAAAAJ:qjMakFHDy7sC:
-    citations: 773
+    citations: 774
     title: "Disturbance/uncertainty estimation and attenuation techniques in PMSM drives\u2014A survey"
     year: '2016'
   s9IOtoMAAAAJ:qxL8FJ1GzNcC:
