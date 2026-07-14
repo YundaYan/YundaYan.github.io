@@ -18,7 +18,8 @@ I actively contribute to the academic community through editorial roles, confere
 
 - Editorial Board Member — *Scientific Reports* (2026–present)  
 - Editorial Board Member — *Advanced Mechatronics* (2025–present)  
-- Editorial Board Member — *Journal of Artificial Intelligence and Control Systems* (2025–present)  
+- Editorial Board Member — *Journal of Artificial Intelligence and Control Systems* (2025–present)
+- Associate Editor — *Frontiers in Control Engineering* (2026–present)
 - Associate Editor — *International Conference on Unmanned Aircraft Systems (ICUAS)* (2026–2027)  
 - Associate Editor — *The 31st International Conference on Automation and Computing (ICAC)* (2026–2027)
   
@@ -50,8 +51,9 @@ I actively contribute to the academic community through editorial roles, confere
 
 ## Academic Service
 
-- Deputy Programme Director, MEng Robotics and Artificial Intelligence, UCL  
-- Participation in academic recruitment and interview panels  
+- Deputy Programme Director, MEng Robotics and Artificial Intelligence, UCL
+- Co-Chair， External Examiner Board Meeting， MEng Robotics and Artificial Intelligence, UCL
+- Co-Chair， Academic Recruitment Panel， UCL  
 
 ---
 
