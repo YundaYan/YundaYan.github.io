@@ -52,8 +52,8 @@ I actively contribute to the academic community through editorial roles, confere
 ## Academic Service
 
 - Deputy Programme Director, MEng Robotics and Artificial Intelligence, UCL
-- Co-Chair， External Examiner Board Meeting， MEng Robotics and Artificial Intelligence, UCL
-- Co-Chair， Academic Recruitment Panel， UCL  
+- Co-Chair, External Examiner Board Meeting， MEng Robotics and Artificial Intelligence, UCL
+- Co-Chair, Academic Recruitment Panel, UCL  
 
 ---
 
