@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-15'
 papers:
   s9IOtoMAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -10,7 +10,7 @@ papers:
     title: Finite-time feedforward decoupling and precise decentralized control for DC microgrids towards large-signal stability
     year: '2019'
   s9IOtoMAAAAJ:3fE2CSJIrl8C:
-    citations: 105
+    citations: 107
     title: Optimal path following for small fixed-wing UAVs under wind disturbances
     year: '2020'
   s9IOtoMAAAAJ:4JMBOYKVnBMC:
@@ -18,7 +18,7 @@ papers:
     title: Safety-Critical Predictive Control for Dynamic Visual Servoing of Robot Manipulators with Visibility Constraints
     year: '2025'
   s9IOtoMAAAAJ:5nxA0vEk-isC:
-    citations: 69
+    citations: 71
     title: Semiglobal finite-time trajectory tracking realization for disturbed nonlinear systems via higher-order sliding modes
     year: '2019'
   s9IOtoMAAAAJ:7PzlFSSx8tAC:
@@ -30,11 +30,11 @@ papers:
     title: "Non\u2010linear\u2010disturbance\u2010observer\u2010enhanced MPC for motion control systems with multiple disturbances"
     year: '2020'
   s9IOtoMAAAAJ:9ZlFYXVOiuMC:
-    citations: 19
+    citations: 20
     title: 'AID-RL: Active information-directed reinforcement learning for autonomous source seeking and estimation'
     year: '2023'
   s9IOtoMAAAAJ:HDshCWvjkbEC:
-    citations: 1
+    citations: 2
     title: Redundant Observer-Based Tracking Control for Object Extraction Using a Cable Connected UAV
     year: '2025'
   s9IOtoMAAAAJ:IWHjjKOFINEC:
@@ -66,19 +66,19 @@ papers:
     title: Mobile Robot Localization and Prediction by UKF with Neural Network Aided Modeling
     year: '2025'
   s9IOtoMAAAAJ:M3ejUd6NZC8C:
-    citations: 14
+    citations: 15
     title: Vision-based UAV landing with guaranteed reliability in adverse environment
     year: '2023'
   s9IOtoMAAAAJ:MXK_kJrjxJIC:
-    citations: 217
+    citations: 218
     title: An offset-free composite model predictive control strategy for DC/DC buck converter feeding constant power loads
     year: '2019'
   s9IOtoMAAAAJ:QIV2ME_5wuYC:
-    citations: 40
+    citations: 44
     title: 'Surviving disturbances: A predictive control framework with guaranteed safety'
     year: '2023'
   s9IOtoMAAAAJ:R3hNpaxXUhUC:
-    citations: 7
+    citations: 8
     title: Control and applications of intelligent unmanned aerial vehicles
     year: '2025'
   s9IOtoMAAAAJ:RHpTSmoSYBkC:
@@ -86,7 +86,7 @@ papers:
     title: Current-constrained finite-time control scheme for speed regulation of PMSM systems with unmatched disturbances
     year: '2025'
   s9IOtoMAAAAJ:Se3iqnhoufwC:
-    citations: 46
+    citations: 48
     title: Generalized dynamic predictive control for nonparametric uncertain systems with application to series elastic actuators
     year: '2018'
   s9IOtoMAAAAJ:TFP_iSt0sucC:
@@ -94,7 +94,7 @@ papers:
     title: 'MPC as a Copilot: A Predictive Filter Framework with Safety and Stability Guarantees'
     year: '2026'
   s9IOtoMAAAAJ:TQgYirikUcIC:
-    citations: 34
+    citations: 35
     title: Safety-critical disturbance rejection control of nonlinear systems with unmatched disturbances
     year: '2024'
   s9IOtoMAAAAJ:ULOm3_A8WrAC:
@@ -126,7 +126,7 @@ papers:
     title: Continuous output feedback sliding mode control for underactuated flexible-joint robot
     year: '2022'
   s9IOtoMAAAAJ:ZeXyd9-uunAC:
-    citations: 29
+    citations: 30
     title: 'Prescribed performance motion control: A control barrier function approach'
     year: '2024'
   s9IOtoMAAAAJ:Zph67rFs4hoC:
@@ -178,11 +178,11 @@ papers:
     title: "Model predictive control with \u03BB\u2013contractive terminal sets"
     year: '2026'
   s9IOtoMAAAAJ:j3f4tGmQtD8C:
-    citations: 0
+    citations: 1
     title: Prescribed Vibration Control for Long Slender Remote Systems in Nuclear Decommissioning
     year: '2024'
   s9IOtoMAAAAJ:kNdYIx-mwKoC:
-    citations: 63
+    citations: 66
     title: On the actuator dynamics of dynamic control allocation for a small fixed-wing UAV with direct lift control
     year: '2020'
   s9IOtoMAAAAJ:k_IJM867U9cC:
@@ -202,11 +202,11 @@ papers:
     title: 'Guarding force: Safety-critical compliant control for robot-environment interaction'
     year: '2025'
   s9IOtoMAAAAJ:qjMakFHDy7sC:
-    citations: 774
+    citations: 779
     title: "Disturbance/uncertainty estimation and attenuation techniques in PMSM drives\u2014A survey"
     year: '2016'
   s9IOtoMAAAAJ:qxL8FJ1GzNcC:
-    citations: 27
+    citations: 28
     title: Generalized dynamic predictive control for nonlinear systems subject to mismatched disturbances with application to PMSM drives
     year: '2023'
   s9IOtoMAAAAJ:r0BpntZqJG4C:
@@ -218,6 +218,6 @@ papers:
     title: Global dynamic nonrecursive realization of decentralized nonsmooth exact tracking for large-scale interconnected nonlinear systems
     year: '2018'
   s9IOtoMAAAAJ:ufrVoPGSRksC:
-    citations: 280
+    citations: 282
     title: Robust speed regulation for PMSM servo system with multiple sources of disturbances via an augmented disturbance observer
     year: '2018'
