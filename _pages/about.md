@@ -26,7 +26,7 @@ announcements:
 
 ---
 
-I am currently a Lecturer (Assistant Professor) in Robotics and AI in the Department of Computer Science at UCL. Before joining UCL, I was a Senior Lecturer in Control Engineering at De Montfort University (2022–2023) and a Postdoctoral Research Associate at Loughborough University (2020–2022). I received both my Bachelor's degree (2009) and PhD (2019) in Control Science and Engineering from Southeast University. During my doctoral studies, I also held visiting research positions in aerial robotics at Loughborough University (2017–2018) and in biorobotics at the National University of Singapore (2016–2017). 
+I am currently an Associate Professor in Robotics and AI in the Department of Computer Science at UCL. Before joining UCL, I was a Senior Lecturer in Control Engineering at De Montfort University (2022–2023) and a Postdoctoral Research Associate at Loughborough University (2020–2022). I received both my Bachelor's degree (2009) and PhD (2019) in Control Science and Engineering from Southeast University. During my doctoral studies, I also held visiting research positions in aerial robotics at Loughborough University (2017–2018) and in biorobotics at the National University of Singapore (2016–2017). 
 
 
 My research lies at the intersection of control engineering, optimisation, and machine learning, under the theme of **Control, Optimisation, and Learning for Autonomy (COLA)**. I am particularly interested in model predictive control, safety-critical control, disturbance rejection, and estimation for autonomous systems. My work focuses on developing theoretically grounded and computationally efficient methods for control and learning under disturbances, uncertainties, and constraints, with applications in robotics, intelligent transportation, and energy systems. I have authored or co-authored papers in leading journals and conferences, including Automatica, IEEE Transactions on Automatic Control, IEEE/ASME Transactions on Mechatronics, and IEEE Transactions on Automation Science and Engineering. For the most up-to-date citation metrics, please refer to my  <a href="https://scholar.google.com/citations?user=s9IOtoMAAAAJ" target="_blank">Google Scholar profile</a>.
@@ -49,15 +49,15 @@ My research lies at the intersection of control engineering, optimisation, and m
 
 ### News
 
-- <img src="https://img.shields.io/badge/Jan-2026-orange" alt="Jan 2026" align="top"> We welcome Mr Zhenyu Gao to the group as a PhD student.
-- <img src="https://img.shields.io/badge/Oct-2025-blue" alt="Oct 2025" align="top"> We welcome [Dr Zuo Wang](https://scholar.google.com/citations?user=RYFyfC0AAAAJ&hl=en&oi=sra) (Southeast University) to the group as a visiting researcher for a one-year appointment.
-- <img src="https://img.shields.io/badge/Sep-2025-blue" alt="Sep 2025" align="top"> We welcome Mr Hao Chen (Tianjin University) and Mr Pengfei Liu (Southeast University) to the group as visiting PhD students for a one-year appointment.
-- <img src="https://img.shields.io/badge/Sep-2025-blue" alt="Sep 2025" align="top"> We welcome [Dr Pengfeng Lin](https://scholar.google.com/citations?user=RtpvKG0AAAAJ&hl=zh-CN) (Shanghai Jiao Tong University) to visit the group.
-- <img src="https://img.shields.io/badge/Dec-2024-lightblue" alt="Dec 2024" align="top"> I was elected as an IEEE Senior Member.
-- <img src="https://img.shields.io/badge/Nov-2024-lightblue" alt="Nov 2024" align="top"> I was awarded Fellowship of the Higher Education Academy (FHEA).
-- <img src="https://img.shields.io/badge/Apr-2024-lightblue" alt="Apr 2024" align="top"> I serve as Deputy Programme Director for the [MEng Robotics and AI (RAI) programme](https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/robotics-and-artificial-intelligence-meng).
-- <img src="https://img.shields.io/badge/Sep-2023-green" alt="Sep 2023" align="top"> I joined University College London (UCL) as a Lecturer in Robotics and AI.
-
+- <img src="https://img.shields.io/badge/Jan-2026-orange" alt="Jul 2026" align="top"> Promoted to Associate Professor in Robotics and AI.
+- <img src="https://img.shields.io/badge/Jan-2026-orange" alt="Jan 2026" align="top"> Welcomed Mr Zhenyu Gao as a PhD student.
+- <img src="https://img.shields.io/badge/Oct-2025-blue" alt="Oct 2025" align="top"> Welcomed [Dr Zuo Wang](https://scholar.google.com/citations?user=RYFyfC0AAAAJ&hl=en&oi=sra) (Southeast University) as a visiting researcher for a one-year appointment.
+- <img src="https://img.shields.io/badge/Sep-2025-blue" alt="Sep 2025" align="top"> Welcomed Mr Hao Chen (Tianjin University) and Mr Pengfei Liu (Southeast University) as visiting PhD students for a one-year appointment.
+- <img src="https://img.shields.io/badge/Sep-2025-blue" alt="Sep 2025" align="top"> Welcomed [Dr Pengfeng Lin](https://scholar.google.com/citations?user=RtpvKG0AAAAJ&hl=zh-CN) (Shanghai Jiao Tong University) as a visiting researcher.
+- <img src="https://img.shields.io/badge/Dec-2024-lightblue" alt="Dec 2024" align="top"> Elected as an IEEE Senior Member.
+- <img src="https://img.shields.io/badge/Nov-2024-lightblue" alt="Nov 2024" align="top"> Awarded Fellowship of the Higher Education Academy (FHEA).
+- <img src="https://img.shields.io/badge/Apr-2024-lightblue" alt="Apr 2024" align="top"> Appointed as Deputy Programme Director for the [MEng Robotics and AI (RAI) programme](https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/robotics-and-artificial-intelligence-meng).
+- <img src="https://img.shields.io/badge/Sep-2023-green" alt="Sep 2023" align="top"> Joined University College London (UCL) as a Lecturer in Robotics and AI.
 
 
 
