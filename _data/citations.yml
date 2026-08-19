@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-19'
 papers:
   s9IOtoMAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -33,6 +33,10 @@ papers:
     citations: 20
     title: 'AID-RL: Active information-directed reinforcement learning for autonomous source seeking and estimation'
     year: '2023'
+  s9IOtoMAAAAJ:BqipwSGYUEgC:
+    citations: 0
+    title: Collaborative Optimization of Battery Charging/Swapping Stations for eVTOLs Based on Closed-Loop Supply Chain and Space-Time Network
+    year: '2026'
   s9IOtoMAAAAJ:HDshCWvjkbEC:
     citations: 3
     title: Redundant observer-based tracking control for object extraction using a cable connected UAV
@@ -73,6 +77,10 @@ papers:
     citations: 224
     title: An offset-free composite model predictive control strategy for DC/DC buck converter feeding constant power loads
     year: '2019'
+  s9IOtoMAAAAJ:NMxIlDl6LWMC:
+    citations: 0
+    title: MPC with Contact-Triggered Steady-State Set Update for Safe Admittance Control
+    year: '2026'
   s9IOtoMAAAAJ:QIV2ME_5wuYC:
     citations: 45
     title: 'Surviving disturbances: A predictive control framework with guaranteed safety'
@@ -82,7 +90,7 @@ papers:
     title: Control and applications of intelligent unmanned aerial vehicles
     year: '2025'
   s9IOtoMAAAAJ:RHpTSmoSYBkC:
-    citations: 9
+    citations: 10
     title: Current-constrained finite-time control scheme for speed regulation of PMSM systems with unmatched disturbances
     year: '2025'
   s9IOtoMAAAAJ:Se3iqnhoufwC:
@@ -94,7 +102,7 @@ papers:
     title: 'MPC as a Copilot: A Predictive Filter Framework with Safety and Stability Guarantees'
     year: '2026'
   s9IOtoMAAAAJ:TQgYirikUcIC:
-    citations: 41
+    citations: 42
     title: Safety-critical disturbance rejection control of nonlinear systems with unmatched disturbances
     year: '2024'
   s9IOtoMAAAAJ:ULOm3_A8WrAC:
@@ -121,12 +129,16 @@ papers:
     citations: 19
     title: A composite current-constrained control for permanent magnet synchronous motor with time-varying disturbance
     year: '2017'
+  s9IOtoMAAAAJ:YFjsv_pBGBYC:
+    citations: 0
+    title: 'Reinforcement Learning Based Optimal Control: A Survey of Adaptive Dynamic Programming for Manipulators and Wheeled Mobile Robots'
+    year: '2026'
   s9IOtoMAAAAJ:YOwf2qJgpHMC:
     citations: 41
     title: Continuous output feedback sliding mode control for underactuated flexible-joint robot
     year: '2022'
   s9IOtoMAAAAJ:ZeXyd9-uunAC:
-    citations: 32
+    citations: 33
     title: 'Prescribed performance motion control: A control barrier function approach'
     year: '2024'
   s9IOtoMAAAAJ:Zph67rFs4hoC:
