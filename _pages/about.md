@@ -48,7 +48,7 @@ My research lies at the intersection of control engineering, optimisation, and m
 </div>
 
 ### News
-
+- <img src="https://img.shields.io/badge/Aug-2026-orange" alt="Aug 2026" align="top"> Awarded the Best Application Paper Award at [ICAC 2026](https://icac2026.com/) for our paper “Perception Delay-Aware Predictive Visual Servoing for Quadruped Robot Person Following,” co-authored by Junwei Ge, Xinhong Miao, Jinya Su, and Yunda Yan.
 - <img src="https://img.shields.io/badge/Jul-2026-orange" alt="Jul 2026" align="top"> Promoted to Associate Professor in Robotics and AI.
 - <img src="https://img.shields.io/badge/Jan-2026-orange" alt="Jan 2026" align="top"> Welcomed Mr Zhenyu Gao as a PhD student.
 - <img src="https://img.shields.io/badge/Oct-2025-blue" alt="Oct 2025" align="top"> Welcomed [Dr Zuo Wang](https://scholar.google.com/citations?user=RYFyfC0AAAAJ&hl=en&oi=sra) (Southeast University) as a visiting researcher for a one-year appointment.
