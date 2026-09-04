@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-09-04'
 papers:
   s9IOtoMAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -18,7 +18,7 @@ papers:
     title: Safety-Critical Predictive Control for Dynamic Visual Servoing of Robot Manipulators with Visibility Constraints
     year: '2025'
   s9IOtoMAAAAJ:5nxA0vEk-isC:
-    citations: 73
+    citations: 74
     title: Semiglobal finite-time trajectory tracking realization for disturbed nonlinear systems via higher-order sliding modes
     year: '2019'
   s9IOtoMAAAAJ:7PzlFSSx8tAC:
@@ -36,6 +36,10 @@ papers:
   s9IOtoMAAAAJ:BqipwSGYUEgC:
     citations: 0
     title: Collaborative Optimization of Battery Charging/Swapping Stations for eVTOLs Based on Closed-Loop Supply Chain and Space-Time Network
+    year: '2026'
+  s9IOtoMAAAAJ:GnPB-g6toBAC:
+    citations: 0
+    title: Collaborative optimization framework of battery charging/swapping stations for eVTOLs based on closed-loop supply chain and space-time network
     year: '2026'
   s9IOtoMAAAAJ:HDshCWvjkbEC:
     citations: 3
@@ -74,7 +78,7 @@ papers:
     title: Vision-based UAV landing with guaranteed reliability in adverse environment
     year: '2023'
   s9IOtoMAAAAJ:MXK_kJrjxJIC:
-    citations: 224
+    citations: 225
     title: An offset-free composite model predictive control strategy for DC/DC buck converter feeding constant power loads
     year: '2019'
   s9IOtoMAAAAJ:NMxIlDl6LWMC:
@@ -94,7 +98,7 @@ papers:
     title: Current-constrained finite-time control scheme for speed regulation of PMSM systems with unmatched disturbances
     year: '2025'
   s9IOtoMAAAAJ:Se3iqnhoufwC:
-    citations: 49
+    citations: 50
     title: Generalized dynamic predictive control for nonparametric uncertain systems with application to series elastic actuators
     year: '2018'
   s9IOtoMAAAAJ:TFP_iSt0sucC:
@@ -102,7 +106,7 @@ papers:
     title: 'MPC as a Copilot: A Predictive Filter Framework with Safety and Stability Guarantees'
     year: '2026'
   s9IOtoMAAAAJ:TQgYirikUcIC:
-    citations: 42
+    citations: 44
     title: Safety-critical disturbance rejection control of nonlinear systems with unmatched disturbances
     year: '2024'
   s9IOtoMAAAAJ:ULOm3_A8WrAC:
@@ -134,11 +138,11 @@ papers:
     title: 'Reinforcement Learning Based Optimal Control: A Survey of Adaptive Dynamic Programming for Manipulators and Wheeled Mobile Robots'
     year: '2026'
   s9IOtoMAAAAJ:YOwf2qJgpHMC:
-    citations: 41
+    citations: 44
     title: Continuous output feedback sliding mode control for underactuated flexible-joint robot
     year: '2022'
   s9IOtoMAAAAJ:ZeXyd9-uunAC:
-    citations: 33
+    citations: 35
     title: 'Prescribed performance motion control: A control barrier function approach'
     year: '2024'
   s9IOtoMAAAAJ:Zph67rFs4hoC:
@@ -162,7 +166,7 @@ papers:
     title: 'Project-Based Learning for Year 1 Students in the Context of Robotics and Artificial Intelligence: A Robotics Challenge'
     year: '2026'
   s9IOtoMAAAAJ:dhFuZR0502QC:
-    citations: 10
+    citations: 11
     title: Disturbance observer based MPC for PMSM with multiple disturbances
     year: '2023'
   s9IOtoMAAAAJ:e5wmG9Sq2KIC:
@@ -210,11 +214,11 @@ papers:
     title: An Event-Triggered Robust Reinforcement Learning Scheme for Nonlinear Systems with Unknown Disturbances
     year: '2026'
   s9IOtoMAAAAJ:qUcmZB5y_30C:
-    citations: 10
+    citations: 11
     title: 'Guarding force: Safety-critical compliant control for robot-environment interaction'
     year: '2025'
   s9IOtoMAAAAJ:qjMakFHDy7sC:
-    citations: 788
+    citations: 789
     title: "Disturbance/uncertainty estimation and attenuation techniques in PMSM drives\u2014A survey"
     year: '2016'
   s9IOtoMAAAAJ:qxL8FJ1GzNcC:
@@ -230,6 +234,6 @@ papers:
     title: Global dynamic nonrecursive realization of decentralized nonsmooth exact tracking for large-scale interconnected nonlinear systems
     year: '2018'
   s9IOtoMAAAAJ:ufrVoPGSRksC:
-    citations: 286
+    citations: 288
     title: Robust speed regulation for PMSM servo system with multiple sources of disturbances via an augmented disturbance observer
     year: '2018'
