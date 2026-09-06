@@ -1,6 +1,20 @@
 ---
 ---
 
+@article{yan2026mppi,
+  title={DAS-MPPI: Disturbance-Aware Safe MPPI Planner with Conservatism-Reducing Reachability Filtering},
+  author={Cheng, Hao and Dou, Liqian and Su, Jinya and Cai, Jialang and Tian, Bailing and Yan, Yunda},
+  journal={IEEE Transactions on Automation Science and Engineering},
+  year={2026},
+ abstract={Safe motion planning in cluttered environments under unknown disturbances remains a major challenge for robotic systems. Model predictive path integral (MPPI) control is attractive for non-convex planning, yet its penalty-based formulation cannot provide deterministic safety guarantees. This paper presents Disturbance-Aware Safe MPPI (DAS-MPPI), a robust sampling-based framework that couples MPPI with Hamilton–Jacobi reachability to enforce reachability-certified safety under unknown disturbances. Unlike prior methods that assume fixed worst-case disturbance bounds, DAS-MPPI formulates the safety game against a convergent disturbance-estimation error set. This dynamically shrinks the backward reachable tube (BRT), reducing conservatism and expanding the navigable free space. Furthermore, we embed this adaptive BRT into MPPI as both a rollout filter and a final control filter, while using online disturbance estimates to compensate for lumped disturbances and mitigate steady-state tracking errors. Extensive comparative simulations show that DAS-MPPI substantially reduces unnecessary safety interventions compared with state-of-the-art baselines. Under moderate and time-varying disturbances, it improves both planning efficiency and success rate, while under the prescribed worst-case disturbance bound it maintains robust collision-avoidance performance. Hardware experiments on a quadruped robot further demonstrate its practical applicability in real-world scenarios.},
+  pdf= {https://discovery.ucl.ac.uk/id/eprint/10230314/1/Safe_MPPI_Final.pdf},
+ video={https://www.youtube.com/watch?v=KyeYe85w5yE},
+ bibtex_show = {true},
+  preview={2026-MPPI-TASE.gif}
+}
+
+
+
 @article{yan2026mpc,
   title={MPC as a Copilot: A Predictive Filter Framework with Safety and Stability Guarantees},
   author={Yan, Yunda and Tao, Chenxi and Su, Jinya and Liu, Cunjia and Li, Shihua},
