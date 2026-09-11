@@ -57,7 +57,7 @@ My research lies at the intersection of control engineering, optimisation, and m
 - <img src="https://img.shields.io/badge/Dec-2024-lightblue" alt="Dec 2024" align="top"> Elected as an IEEE Senior Member.
 - <img src="https://img.shields.io/badge/Nov-2024-lightblue" alt="Nov 2024" align="top"> Awarded Fellowship of the Higher Education Academy (FHEA).
 - <img src="https://img.shields.io/badge/Apr-2024-lightblue" alt="Apr 2024" align="top"> Appointed as Deputy Programme Director for the [MEng Robotics and AI (RAI) programme](https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/robotics-and-artificial-intelligence-meng).
-- <img src="https://img.shields.io/badge/Sep-2023-green" alt="Sep 2023" align="top"> Joined University College London (UCL) as a Lecturer in Robotics and AI.
+- <img src="https://img.shields.io/badge/Sep-2023-green" alt="Sep 2023" align="top"> Joined UCL as a Lecturer in Robotics and AI.
 
 
 
