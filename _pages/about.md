@@ -48,6 +48,7 @@ My research lies at the intersection of control engineering, optimisation, and m
 </div>
 
 ### News
+- <img src="https://img.shields.io/badge/Oct-2026-orange" alt="Oct 2026" align="top"> Welcomed Mr Chenxi Tao (Southeast University), Mr Peng Liu (Southeast University) and Mr Jingxin Huang (Nanjing Agricultural University) as visiting PhD students for a one-year appointment.
 - <img src="https://img.shields.io/badge/Aug-2026-orange" alt="Aug 2026" align="top"> Awarded the Best Application Paper Award at [ICAC 2026](https://icac2026.com/) for our paper “Perception Delay-Aware Predictive Visual Servoing for Quadruped Robot Person Following”.
 - <img src="https://img.shields.io/badge/Jul-2026-orange" alt="Jul 2026" align="top"> Promoted to Associate Professor in Robotics and AI.
 - <img src="https://img.shields.io/badge/Jan-2026-orange" alt="Jan 2026" align="top"> Welcomed Mr Zhenyu Gao as a PhD student.
