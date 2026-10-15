@@ -88,6 +88,9 @@ The COLA Lab is dedicated to advancing both fundamental theory and practical app
 
 ## Alumni
 
+- **Dr Zuo Wang**  
+  Visiting Researcher, now Associate Professor at Southeast University
+
 - **Dr Xinming Wang**  
   PhD, now Research Associate at Cardiff University
 
