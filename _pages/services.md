@@ -15,7 +15,7 @@ I actively contribute to the academic community through editorial roles, confere
 
 ## Editorial Roles
 
-
+- Associate Editor — *IEEE Transactions on Automation Science and Engineering* (effective January 2027)  
 - Editorial Board Member — *Scientific Reports* (2026–present)  
 - Editorial Board Member — *Advanced Mechatronics* (2025–present)  
 - Editorial Board Member — *Journal of Artificial Intelligence and Control Systems* (2025–present)
