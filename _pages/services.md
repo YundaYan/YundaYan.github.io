@@ -20,9 +20,9 @@ I actively contribute to the academic community through editorial roles, confere
 - Editorial Board Member — *Advanced Mechatronics* (2025–present)  
 - Editorial Board Member — *Journal of Artificial Intelligence and Control Systems* (2025–present)
 - Associate Editor — *Frontiers in Control Engineering* (2026–present)
-- Associate Editor — *The 25th European Control Conference (ECC)* (2026–2027)  
-- Associate Editor — *International Conference on Unmanned Aircraft Systems (ICUAS)* (2025–2026)  
-- Associate Editor — *The 31st International Conference on Automation and Computing (ICAC)* (2025–2026)
+- Associate Editor — *The 25th European Control Conference (ECC)* 
+- Associate Editor — *The 2026 International Conference on Unmanned Aircraft Systems (ICUAS)* 
+- Associate Editor — *The 31st International Conference on Automation and Computing (ICAC)*
   
 ---
 
