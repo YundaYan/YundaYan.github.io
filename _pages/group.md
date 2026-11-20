@@ -75,6 +75,15 @@ The COLA Lab is dedicated to advancing both fundamental theory and practical app
 
 ## Visitors
 
+- **Mr Chenxi Tao** (2026–2027)  
+  Visiting PhD Student, Southeast University
+
+- **Mr Peng Liu** (2026–2027)  
+  Visiting PhD Student, Southeast University  
+
+- **Mr Jingxin Huang** (2026–2027)  
+  Visiting PhD Student, Nanjing Agricultural University  
+
 - **Dr Zuo Wang** (2025–2026)  
   Visiting Researcher, Southeast University  
 
